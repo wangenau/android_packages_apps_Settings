@@ -303,6 +303,8 @@
     <string name="zone_list_menu_sort_by_timezone" msgid="2720190443744884114">"Ordina per fuso orario"</string>
     <string name="date_picker_title" msgid="1338210036394128512">"Data"</string>
     <string name="time_picker_title" msgid="483460752287255019">"Ora"</string>
+    <string name="see_through_title">Guarda attraverso</string>
+    <string name="see_through_summary">Mostra il contenuto sotto la schermata di blocco. I tuoi dati potrebbero essere visibili a chi ti circonda.</string>
     <string name="biometric_weak_improve_matching_title" msgid="8754080894393195194">"Migliora riconoscimento viso"</string>
     <string name="biometric_weak_liveliness_title" msgid="2661613702124561096">"Controllo vitalità"</string>
     <string name="biometric_weak_liveliness_summary" msgid="4199587000948042325">"Richiedi battito di ciglia durante sblocco"</string>
