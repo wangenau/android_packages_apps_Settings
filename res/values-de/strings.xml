@@ -303,8 +303,8 @@
     <string name="zone_list_menu_sort_by_timezone" msgid="2720190443744884114">"Nach Zeitzone sortieren"</string>
     <string name="date_picker_title" msgid="1338210036394128512">"Datum"</string>
     <string name="time_picker_title" msgid="483460752287255019">"Uhrzeit"</string>
-    <string name="see_through_title">Hindurchsehen</string>
-    <string name="see_through_summary">Zeigt den Inhalt hinter deinem Sperrbildschirm, deine Daten könnten sichtbar sein für andere in deiner Nähe</string>
+    <string name="see_through_title">Transparenter Sperrbildschirm</string>
+    <string name="see_through_summary">Inhalte hinter dem Sperrbildschirm anzeigen. Inhalte können dadurch sichtbar für andere in der Nähe sein.</string>
     <string name="biometric_weak_improve_matching_title" msgid="8754080894393195194">"Gesichtserkennung verbessern"</string>
     <string name="biometric_weak_liveliness_title" msgid="2661613702124561096">"Aktualitätsprüfung"</string>
     <string name="biometric_weak_liveliness_summary" msgid="4199587000948042325">"Augenzwinkern beim Entsperren erforderlich"</string>
