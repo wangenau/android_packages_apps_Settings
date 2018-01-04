@@ -389,7 +389,7 @@ public class DeviceInfoSettings extends RestrictedSettingsFragment {
             return "Unavailable";
         }
         return m.group(1) + "\n" +                 // 3.0.31-g6fb96c9
-            m.group(2) + " " + m.group(3) + "\n" + // x@y.com #1
+            m.group(2) + "\n" + // x@y.com #1
             m.group(4);                            // Thu Jun 28 11:02:39 PDT 2012
     }
 
