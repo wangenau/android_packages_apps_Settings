@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Lautstärke</string>
   <string name="title_tile_expanded_desktop">Erweiterter Desktop</string>
   <string name="title_tile_network_adb">ADB über Netzwerk</string>
-  <string name="title_tile_themes">Designs</string>
   <string name="title_tile_fast_charge">Schnelles Laden</string>
   <string name="title_dynamic_tiles">Dynamische Kacheln</string>
   <string name="dynamic_tiles_note_title">Hinweis</string>
@@ -426,15 +425,8 @@ Mittels \"Entfernen\" kann die ausgewählte Stützstelle aus dem Helligkeitsverl
   <string name="preview_country_title">Land</string>
   <string name="preview_carrier_title">Anbieter</string>
   <string name="header_category_interface">Personalisierung</string>
-  <string name="themes_settings_title">Designs</string>
-  <string name="themepacks_settings_title">Designpakete</string>
-  <string name="styles_settings_title">Stile</string>
-  <string name="icons_settings_title">Symbole</string>
-  <string name="fonts_settings_title">Schriftarten</string>
   <string name="wallpaper_settings_title_cm">Hintergründe</string>
   <string name="lockscreen_wallpaper_settings_title">Sperrbildschirm-Hintergründe</string>
-  <string name="bootanim_settings_title">Boot-Animationen</string>
-  <string name="soundpack_settings_title">Tonpakete</string>
   <string name="performance_settings_title">Leistung</string>
   <string name="performance_settings_warning_title">VORSICHT</string>
   <string name="performance_settings_warning">Diese experimentellen Einstellungen beeinflussen die Leistung und Stabilität des Systems.\n\nBitte keine Fehler melden, wenn die Standardeinstellungen geändert wurden.</string>

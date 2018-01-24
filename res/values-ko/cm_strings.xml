@@ -271,7 +271,6 @@
   <string name="title_tile_volume">볼륨</string>
   <string name="title_tile_expanded_desktop">확장된 데스크탑</string>
   <string name="title_tile_network_adb">네트워크를 통한 ADB</string>
-  <string name="title_tile_themes">테마</string>
   <string name="title_dynamic_tiles">동적 타일</string>
   <string name="dynamic_tiles_note_title">참고</string>
   <string name="dynamic_tiles_note_summary">동적 타일은 시스템 이벤트에 의해 발생했을 경우에만 나타납니다</string>
@@ -411,15 +410,8 @@
   <string name="preview_country_title">국가</string>
   <string name="preview_carrier_title">통신사</string>
   <string name="header_category_interface">개인화</string>
-  <string name="themes_settings_title">테마</string>
-  <string name="themepacks_settings_title">테마 팩</string>
-  <string name="styles_settings_title">스타일</string>
-  <string name="icons_settings_title">아이콘</string>
-  <string name="fonts_settings_title">글꼴</string>
   <string name="wallpaper_settings_title_cm">배경 화면</string>
   <string name="lockscreen_wallpaper_settings_title">잠금 화면 배경화면</string>
-  <string name="bootanim_settings_title">부팅 애니메이션</string>
-  <string name="soundpack_settings_title">사운드 팩</string>
   <string name="performance_settings_title">성능</string>
   <string name="performance_settings_warning_title">확인하고 진행</string>
   <string name="performance_settings_warning">이 설정들은 실험적이며 기기 불안정, 충돌, 데이터 손실, 하드웨어 손상을 야기할 수도 있습니다.\n\n이 설정을 바꿈으로 인해 발생되는 문제는 버그  신고에 포함시키지 마십시오.</string>

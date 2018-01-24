@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Volume</string>
   <string name="title_tile_expanded_desktop">Uitgebreide lessenaar</string>
   <string name="title_tile_network_adb">ADB oor netwerk</string>
-  <string name="title_tile_themes">Temas</string>
   <string name="title_dynamic_tiles">Dinamiese teëls</string>
   <string name="dynamic_tiles_note_title">Nota:</string>
   <string name="dynamic_tiles_note_summary">Dinamiese teëls sal alleenlik verskyn deur \'n stelsel gebeurtenis</string>
@@ -413,15 +412,8 @@ ten einde om bykomende kontrolepunte by te voeg . \'Verwyder\' verwyder die geko
   <string name="preview_country_title">Land</string>
   <string name="preview_carrier_title">Draer</string>
   <string name="header_category_interface">Personalisering</string>
-  <string name="themes_settings_title">Temas</string>
-  <string name="themepacks_settings_title">Tema pakkette</string>
-  <string name="styles_settings_title">Style</string>
-  <string name="icons_settings_title">Ikone</string>
-  <string name="fonts_settings_title">Lettertipes</string>
   <string name="wallpaper_settings_title_cm">Agtergronde</string>
   <string name="lockscreen_wallpaper_settings_title">Slot skerm agtergrond</string>
-  <string name="bootanim_settings_title">Begin Animasies</string>
-  <string name="soundpack_settings_title">Klank Pakkette</string>
   <string name="performance_settings_title">Werkverrigting</string>
   <string name="performance_settings_warning_title">Pasop!</string>
   <string name="performance_settings_warning">Hierdie instellings is eksperimenteel en enige veranderings verander hier het die potensiaal om onstabiliteit, ongelukke, die verlies van data of hardeware probleme te veroorsaak.\n\nOns versoek dat u nie \'n fout verslae indien as enige instellings verander word vanaf hulle standaard instelling nie.</string>

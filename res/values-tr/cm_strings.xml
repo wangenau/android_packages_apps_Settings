@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Ses</string>
   <string name="title_tile_expanded_desktop">Genişletilmiş Masaüstü</string>
   <string name="title_tile_network_adb">Ağ üzerinden ADB</string>
-  <string name="title_tile_themes">Temalar</string>
   <string name="title_dynamic_tiles">Dinamik kareler</string>
   <string name="dynamic_tiles_note_title">Not</string>
   <string name="dynamic_tiles_note_summary">Dinamik kareler sadece sistem tarafından tetiklendiğinde çalışacaktır</string>
@@ -425,15 +424,8 @@ parlaklık seviyesini ayarlayabilir hem de istediğiniz parlaklık düzeyini ell
   <string name="preview_country_title">Ülke</string>
   <string name="preview_carrier_title">Şebeke</string>
   <string name="header_category_interface">Kişiselleştirme</string>
-  <string name="themes_settings_title">Temalar</string>
-  <string name="themepacks_settings_title">Tema paketleri</string>
-  <string name="styles_settings_title">Stiller</string>
-  <string name="icons_settings_title">Simgeler</string>
-  <string name="fonts_settings_title">Yazı tipleri</string>
   <string name="wallpaper_settings_title_cm">Duvar kağıtları</string>
   <string name="lockscreen_wallpaper_settings_title">Kilit ekranı duvar kağıtları</string>
-  <string name="bootanim_settings_title">Açılış animasyonları</string>
-  <string name="soundpack_settings_title">Ses paketleri</string>
   <string name="performance_settings_title">Performans</string>
   <string name="performance_settings_warning_title">Dikkatle hareket edin</string>
   <string name="performance_settings_warning">Bu ayarlar deneyseldir ve uygulanan her değişikliğin kararsızlığa, çökmelere, veri kaybına ve donanım hatalarına sebep olma riski vardır.\n\nEğer ayarlar varsayılanlarından değiştirilmişse sizden hata raporu göndermemenizi istiyoruz.</string>

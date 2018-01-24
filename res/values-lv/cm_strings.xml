@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Skaļums</string>
   <string name="title_tile_expanded_desktop">Paplašināta darbvirsma</string>
   <string name="title_tile_network_adb">ADB tīkls</string>
-  <string name="title_tile_themes">Tēmas</string>
   <string name="title_dynamic_tiles">Dinamiskas flīzes</string>
   <string name="dynamic_tiles_note_title">Piezīme</string>
   <string name="dynamic_tiles_note_summary">Dinamiskās flīzes parādīsies, palaižoties pēc sistēmas notikuma</string>
@@ -411,15 +410,8 @@ Papildu opcijas ir pieejamas, ilgi pieskaroties rindai. Izvēloties \'Mainīt\',
   <string name="preview_country_title">Valsts</string>
   <string name="preview_carrier_title">Piegādātājs</string>
   <string name="header_category_interface">Personalizācija</string>
-  <string name="themes_settings_title">Tēmas</string>
-  <string name="themepacks_settings_title">Tēmu pakas</string>
-  <string name="styles_settings_title">Stili</string>
-  <string name="icons_settings_title">Ikonas</string>
-  <string name="fonts_settings_title">Fonti</string>
   <string name="wallpaper_settings_title_cm">Tapetes</string>
   <string name="lockscreen_wallpaper_settings_title">Slēgekrāna tapetes</string>
-  <string name="bootanim_settings_title">Sāknēšanas animācijas</string>
-  <string name="soundpack_settings_title">Skaņas pakas</string>
   <string name="performance_settings_title">Veiktspēja</string>
   <string name="performance_settings_warning_title">Turpiniet piesardzīgi</string>
   <string name="performance_settings_warning">Šie iestatījumi ir eksperimentāli pielietotās izmaiņas var izraisīt nestabilitāti, avārijas, datu zudumu vai iekārtas kļūdas.\n\nMēs pieprasām, ka jūs neiesniedzat kļūdu ziņojumus, ja kādi iestatījumi tiek mainīti no to noklusētajām vērtībām.</string>

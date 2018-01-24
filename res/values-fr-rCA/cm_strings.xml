@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Volume</string>
   <string name="title_tile_expanded_desktop">Bureau étendu</string>
   <string name="title_tile_network_adb">ADB sur réseau</string>
-  <string name="title_tile_themes">Thèmes</string>
   <string name="title_dynamic_tiles">Raccourcis dynamiques</string>
   <string name="dynamic_tiles_note_title">Note</string>
   <string name="dynamic_tiles_note_summary">Les raccourcis dynamiques s\'afficheront uniquement s\'ils sont déclenchés par un événement système</string>
@@ -411,15 +410,8 @@ Des options supplémentaires sont disponibles en appuyant longtemps sur une lign
   <string name="preview_country_title">Pays</string>
   <string name="preview_carrier_title">Opérateur</string>
   <string name="header_category_interface">Personnalisation</string>
-  <string name="themes_settings_title">Thèmes</string>
-  <string name="themepacks_settings_title">Ensemble de thèmes</string>
-  <string name="styles_settings_title">Styles</string>
-  <string name="icons_settings_title">Icônes</string>
-  <string name="fonts_settings_title">Polices</string>
   <string name="wallpaper_settings_title_cm">Fonds d\'écran</string>
   <string name="lockscreen_wallpaper_settings_title">Fonds d\'écran de verrouillage</string>
-  <string name="bootanim_settings_title">Animations de démarrage</string>
-  <string name="soundpack_settings_title">Ensembles de sons</string>
   <string name="performance_settings_title">Performance</string>
   <string name="performance_settings_warning_title">ATTENTION!</string>
   <string name="performance_settings_warning">Ces paramètres sont expérimentaux et toutes les modifications appliquées sont susceptibles de provoquer des instabilités, des plantages, des pertes de données ou la défaillance du matériel.\n\nNous vous demandons de ne pas déposer de rapports de bogues si des valeurs par défaut de paramètre ont été modifiées.</string>

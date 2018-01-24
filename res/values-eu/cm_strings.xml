@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Bolumena</string>
   <string name="title_tile_expanded_desktop">Mahaigain hedatua</string>
   <string name="title_tile_network_adb">Sare gaineko ADB</string>
-  <string name="title_tile_themes">Gaiak</string>
   <string name="title_dynamic_tiles">Lauza dinamikoak</string>
   <string name="dynamic_tiles_note_title">Oharra</string>
   <string name="dynamic_tiles_note_summary">Lauza dinamikoak sistemaren gertakari batek eraginda agertuko dira soilik</string>
@@ -411,15 +410,8 @@ Informazio hau gailuaren abio bakoitzean bidaltzen da.\n\nBidalitako informazioa
   <string name="preview_country_title">Herrialdea</string>
   <string name="preview_carrier_title">Operadorea</string>
   <string name="header_category_interface">Pertsonalizazioa</string>
-  <string name="themes_settings_title">Gaiak</string>
-  <string name="themepacks_settings_title">Gai multzoak</string>
-  <string name="styles_settings_title">Estiloak</string>
-  <string name="icons_settings_title">Ikonoak</string>
-  <string name="fonts_settings_title">Letra-tipoak</string>
   <string name="wallpaper_settings_title_cm">Horma-paperak</string>
   <string name="lockscreen_wallpaper_settings_title">Blokeo-pantailako horma-paperak</string>
-  <string name="bootanim_settings_title">Abio animazioak</string>
-  <string name="soundpack_settings_title">Soinu multzoak</string>
   <string name="performance_settings_title">Errendimendua</string>
   <string name="performance_settings_warning_title">Kontu handiz ibili</string>
   <string name="performance_settings_warning">Ezarpen hauek esperimentalak dira eta hemen buruturiko edozein aldaketak ezegonkortasuna sor dezake, kraskatzeak, datuen galera edo hardware akatsak.\n\nEz bidali akats txostenik ezarpen hauek lehenetsitako balioetatik aldatu badituzu.</string>

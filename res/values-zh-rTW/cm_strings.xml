@@ -271,7 +271,6 @@
   <string name="title_tile_volume">音量</string>
   <string name="title_tile_expanded_desktop">擴展桌面</string>
   <string name="title_tile_network_adb">網路 ADB</string>
-  <string name="title_tile_themes">主題</string>
   <string name="title_dynamic_tiles">動態磚</string>
   <string name="dynamic_tiles_note_title">注意</string>
   <string name="dynamic_tiles_note_summary">動態磚只有在系統事件觸發時才會顯示</string>
@@ -417,15 +416,8 @@
   <string name="preview_country_title">國家</string>
   <string name="preview_carrier_title">電信業者</string>
   <string name="header_category_interface">個人化</string>
-  <string name="themes_settings_title">主題</string>
-  <string name="themepacks_settings_title">主題包</string>
-  <string name="styles_settings_title">風格</string>
-  <string name="icons_settings_title">圖示</string>
-  <string name="fonts_settings_title">字體</string>
   <string name="wallpaper_settings_title_cm">桌布</string>
   <string name="lockscreen_wallpaper_settings_title">鎖定畫面桌布</string>
-  <string name="bootanim_settings_title">開機動畫</string>
-  <string name="soundpack_settings_title">音效包</string>
   <string name="performance_settings_title">效能</string>
   <string name="performance_settings_warning_title">謹慎繼續</string>
   <string name="performance_settings_warning">這些設定僅具實驗性質，任何的改變都可能性導致不穩定、當機、數據消失或硬體故障等。\n\n倘若因修改預設值而造成錯誤，請勿回報錯誤報告。</string>

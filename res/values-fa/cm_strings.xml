@@ -87,7 +87,6 @@
   <string name="title_tile_wifi">وای‌فای</string>
   <string name="title_tile_screen_timeout">ﺯﻣﺎﻥ خاموش شدن صفحه</string>
   <string name="title_tile_volume">بلندی صدا</string>
-  <string name="title_tile_themes">تم‌ها</string>
   <string name="title_dynamic_wifi">ارسال صفحه</string>
   <string name="pref_screentimeout_mode_title">حالات ﺯﻣﺎﻥ خاموش شدن صفحه</string>
   <string name="cm_sound_mode_silent">بی‌صدا</string>
@@ -113,8 +112,6 @@
   <string name="mod_version">نسخه سایانوژن‌مود</string>
   <string name="mod_version_default">ناشناخته</string>
   <string name="build_date">تاریخ ساخت</string>
-  <string name="themes_settings_title">مضامین</string>
-  <string name="fonts_settings_title">فونت‌ها</string>
   <string name="wallpaper_settings_title_cm">کاغذدیواری‌ها</string>
   <string name="lockscreen_wallpaper_settings_title">کاغذدیواری‌های قفل صفحه</string>
   <string name="performance_settings_title">کارایی</string>

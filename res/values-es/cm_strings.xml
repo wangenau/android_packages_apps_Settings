@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Volumen</string>
   <string name="title_tile_expanded_desktop">Extender escritorio</string>
   <string name="title_tile_network_adb">ADB sobre red</string>
-  <string name="title_tile_themes">Temas</string>
   <string name="title_dynamic_tiles">Controles dinámicos</string>
   <string name="dynamic_tiles_note_title">Nota</string>
   <string name="dynamic_tiles_note_summary">Los controles dinámicos solamente aparecerán por un evento del sistema</string>
@@ -411,15 +410,8 @@ Tocando de forma prolongada cada línea se mostrarán opciones adicionales. Sele
   <string name="preview_country_title">País</string>
   <string name="preview_carrier_title">Operadora móvil</string>
   <string name="header_category_interface">Personalización</string>
-  <string name="themes_settings_title">Temas</string>
-  <string name="themepacks_settings_title">Paquetes de temas</string>
-  <string name="styles_settings_title">Estilos</string>
-  <string name="icons_settings_title">Iconos</string>
-  <string name="fonts_settings_title">Fuentes</string>
   <string name="wallpaper_settings_title_cm">Fondos de pantalla</string>
   <string name="lockscreen_wallpaper_settings_title">Fondos de bloqueo</string>
-  <string name="bootanim_settings_title">Animaciones de inicio</string>
-  <string name="soundpack_settings_title">Paquetes de sonidos</string>
   <string name="performance_settings_title">Rendimiento</string>
   <string name="performance_settings_warning_title">Procede con precaución</string>
   <string name="performance_settings_warning">Estos ajustes han sido incluidos a modo de experimentación y cualquier cambio realizado sobre ellos puede causar inestabilidad, cierre de aplicaciones, pérdida de datos o fallos de hardware.\n\nNo comuniques informes de errores si has cambiado alguno de los valores definidos por defecto.</string>

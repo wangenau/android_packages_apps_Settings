@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Glasnost</string>
   <string name="title_tile_expanded_desktop">Razširjeno namizje</string>
   <string name="title_tile_network_adb">ADB preko omrežja</string>
-  <string name="title_tile_themes">Teme</string>
   <string name="title_dynamic_tiles">Dinamične ploščice</string>
   <string name="dynamic_tiles_note_title">Opomba</string>
   <string name="dynamic_tiles_note_summary">Dinamične ploščice se bodo prikazale samo, če jih sproži sistemski dogodek</string>
@@ -412,15 +411,8 @@ Dodatne možnosti so na voljo ob pritisku na vrstico. Z izbiro \"Uredi\" lahko p
   <string name="preview_country_title">Država</string>
   <string name="preview_carrier_title">Ponudnik</string>
   <string name="header_category_interface">Prilagajanje</string>
-  <string name="themes_settings_title">Teme</string>
-  <string name="themepacks_settings_title">Paketi tem</string>
-  <string name="styles_settings_title">Slogi</string>
-  <string name="icons_settings_title">Ikone</string>
-  <string name="fonts_settings_title">Pisave</string>
   <string name="wallpaper_settings_title_cm">Slike ozadja</string>
   <string name="lockscreen_wallpaper_settings_title">Slike ozadja zaslona za zaklepanje</string>
-  <string name="bootanim_settings_title">Zagonske animacije</string>
-  <string name="soundpack_settings_title">Zvočni paketi</string>
   <string name="performance_settings_title">Zmogljivost</string>
   <string name="performance_settings_warning_title">Nadaljujte previdno</string>
   <string name="performance_settings_warning">Te nastavitve so preskusne in uveljavljene spremembe lahko povzročijo nestabilnost, sesutje, izgubo podatkov ali okvaro strojne opreme.\n\nZahtevamo, da ne poročate o hroščih, če nastavitve spremenite z njihovih privzetih vrednosti.</string>

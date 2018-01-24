@@ -273,7 +273,6 @@
   <string name="title_tile_volume">دەنگ</string>
   <string name="title_tile_expanded_desktop">بڵاوکردنەوەی شاشە</string>
   <string name="title_tile_network_adb">ADB بۆ تۆڕ</string>
-  <string name="title_tile_themes">سیم</string>
   <string name="title_dynamic_tiles">جووڵەیی  tiles</string>
   <string name="dynamic_tiles_note_title">تێبینی</string>
   <string name="dynamic_tiles_note_summary">تەنیا لە کاتیک ئەستووونە جوڵاوەکان دەربکەون لە لە ڕێگای ڕووداوێکی سیستەمییەوە داگیرسابێت</string>
@@ -428,15 +427,8 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
   <string name="preview_country_title">وڵات</string>
   <string name="preview_carrier_title">هەڵگر-کۆمپانیای سیمکارتەکە</string>
   <string name="header_category_interface">کەسێتی</string>
-  <string name="themes_settings_title">ڕووکارەکان</string>
-  <string name="themepacks_settings_title">پاکێچی ڕووکارەکان</string>
-  <string name="styles_settings_title">ستایل</string>
-  <string name="icons_settings_title">وێنۆچکەکان</string>
-  <string name="fonts_settings_title">فۆنتەکان</string>
   <string name="wallpaper_settings_title_cm">دیوارپۆش</string>
   <string name="lockscreen_wallpaper_settings_title">دیوارپۆشی قوفڵی ڕوونما</string>
-  <string name="bootanim_settings_title">وێنەی جوڵاوی بووت</string>
-  <string name="soundpack_settings_title">گوورزەی دەنگ</string>
   <string name="performance_settings_title">ئەنجامدان</string>
   <string name="performance_settings_warning_title">بەردەوامبوون لەگەڵ ئاگەداری</string>
   <string name="performance_settings_warning">ئەم گۆڕینە ئەبێتە هۆی هەرچی گۆڕینێک لە بەرنامە یان ڕەقەکاڵلاfailures.\n\nئێمە پێویستەمان بە ڕاپۆرتی خراپەکانی سیستەمە changed from their defaults.</string>

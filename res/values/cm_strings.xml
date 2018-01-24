@@ -575,7 +575,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <!-- Settings main menu category heading. Interface (Launcher, Themes, System). [CHAR LIMIT=40] -->
     <string name="header_category_interface">Personalization</string>
 
-    <!-- Themes Settings -->
+    <!-- Wallpaper Settings -->
     <string name="wallpaper_settings_title_cm">Wallpapers</string>
     <string name="lockscreen_wallpaper_settings_title">Lock screen wallpapers</string>
 

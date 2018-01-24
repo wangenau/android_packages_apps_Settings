@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Ένταση</string>
   <string name="title_tile_expanded_desktop">Επέκταση επιφάνειας</string>
   <string name="title_tile_network_adb">ADB μέσω δικτύου</string>
-  <string name="title_tile_themes">Θέματα</string>
   <string name="title_dynamic_tiles">Δυναμικά πλακίδια</string>
   <string name="dynamic_tiles_note_title">Σημείωση</string>
   <string name="dynamic_tiles_note_summary">Τα δυναμικά πλακίδια εμφανίζονται μόνο όταν προκληθούν από ένα συμβάν του συστήματος</string>
@@ -432,15 +431,8 @@
   <string name="preview_country_title">Χώρα</string>
   <string name="preview_carrier_title">Πάροχος δικτύου</string>
   <string name="header_category_interface">Εξατομίκευση</string>
-  <string name="themes_settings_title">Θέματα</string>
-  <string name="themepacks_settings_title">Πακέτα θέματος</string>
-  <string name="styles_settings_title">Στυλ</string>
-  <string name="icons_settings_title">Εικονίδια</string>
-  <string name="fonts_settings_title">Γραμματοσειρές</string>
   <string name="wallpaper_settings_title_cm">Ταπετσαρίες</string>
   <string name="lockscreen_wallpaper_settings_title">Ταπετσαρίες οθόνης κλειδώματος</string>
-  <string name="bootanim_settings_title">Κινούμενες εικόνες εκκίνησης</string>
-  <string name="soundpack_settings_title">Πακέτα ήχου</string>
   <string name="performance_settings_title">Επιδόσεις</string>
   <string name="performance_settings_warning_title">Συνεχίστε με προσοχή</string>
   <string name="performance_settings_warning">Αυτές οι ρυθμίσεις είναι πειραματικές και οποιεσδήποτε εφαρμοσμένες αλλαγές έχουν τη δυνατότητα να προκαλέσουν αστάθεια, κολλήματα, απώλεια δεδομένων ή βλάβη στο hardware.\n\nΠαρακαλούμε να μην πραγματοποιήσετε αναφορές σφαλμάτων αν έχετε αλλάξει οποιαδήποτε ρύθμιση από τις προεπιλογές.</string>

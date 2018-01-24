@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Volume</string>
   <string name="title_tile_expanded_desktop">Ecrã expandido</string>
   <string name="title_tile_network_adb">ADB através da rede</string>
-  <string name="title_tile_themes">Temas</string>
   <string name="title_dynamic_tiles">Botões dinâmicos</string>
   <string name="dynamic_tiles_note_title">Nota</string>
   <string name="dynamic_tiles_note_summary">Os botões dinâmicos só serão mostrados se um evento de sistema o justificar</string>
@@ -402,15 +401,8 @@
   <string name="preview_country_title">País</string>
   <string name="preview_carrier_title">Operador</string>
   <string name="header_category_interface">Personalização</string>
-  <string name="themes_settings_title">Temas</string>
-  <string name="themepacks_settings_title">Pacotes de temas</string>
-  <string name="styles_settings_title">Estilos</string>
-  <string name="icons_settings_title">Ícones</string>
-  <string name="fonts_settings_title">Tipos de letra</string>
   <string name="wallpaper_settings_title_cm">Imagens de fundo</string>
   <string name="lockscreen_wallpaper_settings_title">Imagem do ecrã de bloqueio</string>
-  <string name="bootanim_settings_title">Animações de inicialização</string>
-  <string name="soundpack_settings_title">Pacotes de som</string>
   <string name="performance_settings_title">Desempenho</string>
   <string name="performance_settings_warning_title">Prosseguir com cautela</string>
   <string name="performance_settings_warning">Estas definições são experimentais e quaisquer alterações feitas poderão causar instabilidade, falhas de sistema, perda de dados ou falha de hardware.\n\nPedimos que não nos enviem relatórios de erros se alguma destas definições for alterada.</string>

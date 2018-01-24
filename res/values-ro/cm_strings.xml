@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Volum</string>
   <string name="title_tile_expanded_desktop">Desktop extins</string>
   <string name="title_tile_network_adb">ADB prin rețea</string>
-  <string name="title_tile_themes">Teme</string>
   <string name="title_dynamic_tiles">Carduri dinamice</string>
   <string name="dynamic_tiles_note_title">Notă</string>
   <string name="dynamic_tiles_note_summary">Siglele dinamice vor apărea numai în cazul în care sunt declanşate de un eveniment de sistem</string>
@@ -424,15 +423,8 @@ două pentru a adăuga puncte de control adiționale. „Ștergere” elimină l
   <string name="preview_country_title">Țara</string>
   <string name="preview_carrier_title">Operator</string>
   <string name="header_category_interface">Personalizare</string>
-  <string name="themes_settings_title">Teme</string>
-  <string name="themepacks_settings_title">Pachete de teme</string>
-  <string name="styles_settings_title">Stiluri</string>
-  <string name="icons_settings_title">Icon-uri</string>
-  <string name="fonts_settings_title">Fonturi</string>
   <string name="wallpaper_settings_title_cm">Imagini de fundal</string>
   <string name="lockscreen_wallpaper_settings_title">Imagini de fundal pentru ecranul de blocare</string>
-  <string name="bootanim_settings_title">Animații de boot</string>
-  <string name="soundpack_settings_title">Pachete de sunet</string>
   <string name="performance_settings_title">Performanța</string>
   <string name="performance_settings_warning_title">Continuați cu precauție</string>
   <string name="performance_settings_warning">Aceste setări sunt experimentale și schimbările făcute au potențialul de a cauza instabilitate, blocări, pierdere de date sau probleme de hardware.\n\nTe rugăm să nu trimiți raporturi de erori dacă oricare dintre aceste setări a fost modificată de la starea inițială.</string>

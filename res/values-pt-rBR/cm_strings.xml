@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Volume</string>
   <string name="title_tile_expanded_desktop">Área de trabalho expandida</string>
   <string name="title_tile_network_adb">ADB pela rede</string>
-  <string name="title_tile_themes">Temas</string>
   <string name="title_dynamic_tiles">Botões dinâmicos</string>
   <string name="dynamic_tiles_note_title">Nota</string>
   <string name="dynamic_tiles_note_summary">Os botões dinâmicos só serão mostrados se iniciados por um evento de sistema</string>
@@ -410,15 +409,8 @@ Opções adicionais estão disponíveis ao pressionar continuamente uma linha. A
   <string name="preview_country_title">País</string>
   <string name="preview_carrier_title">Operadora</string>
   <string name="header_category_interface">INTERFACE</string>
-  <string name="themes_settings_title">Temas</string>
-  <string name="themepacks_settings_title">Pacotes de temas</string>
-  <string name="styles_settings_title">Estilos</string>
-  <string name="icons_settings_title">Ícones</string>
-  <string name="fonts_settings_title">Fontes</string>
   <string name="wallpaper_settings_title_cm">Papéis de parede</string>
   <string name="lockscreen_wallpaper_settings_title">Papeis de parede da tela de bloqueio</string>
-  <string name="bootanim_settings_title">Animações de inicialização</string>
-  <string name="soundpack_settings_title">Pacotes de som</string>
   <string name="performance_settings_title">Desempenho</string>
   <string name="performance_settings_warning_title">Proceda com cautela</string>
   <string name="performance_settings_warning">Estas configurações são experimentais e quaisquer alterações feitas poderão causar instabilidade, falhas de sistema, perda de dados ou falha de hardware.\n\nPedimos que não nos enviem relatórios de erros se alguma destas configurações for alterada.</string>

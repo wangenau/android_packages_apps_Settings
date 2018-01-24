@@ -271,7 +271,6 @@
   <string name="title_tile_volume">ระดับเสียง</string>
   <string name="title_tile_expanded_desktop">เต็มจอ</string>
   <string name="title_tile_network_adb">ADB บนเครือข่าย</string>
-  <string name="title_tile_themes">ชุดรูปแบบ</string>
   <string name="title_dynamic_tiles">ไดนามิก ไทต์</string>
   <string name="dynamic_tiles_note_title">หมายเหตุ</string>
   <string name="dynamic_tiles_note_summary">ไดนามิกไทต์จะแสดงเมื่อถูกกระตุ้นจากเหตุการณ์ของระบบเท่านั้น</string>
@@ -403,15 +402,8 @@
   <string name="preview_country_title">ประเทศ</string>
   <string name="preview_carrier_title">ผู้ให้บริการ</string>
   <string name="header_category_interface">ลักษณะส่วนบุคคล</string>
-  <string name="themes_settings_title">ชุดรูปแบบ</string>
-  <string name="themepacks_settings_title">แพ็คชุดรูปแบบ</string>
-  <string name="styles_settings_title">ลักษณะ</string>
-  <string name="icons_settings_title">ไอคอน</string>
-  <string name="fonts_settings_title">แบบอักษร</string>
   <string name="wallpaper_settings_title_cm">ภาพพื้นหลัง</string>
   <string name="lockscreen_wallpaper_settings_title">ภาพพื้นหลังที่หน้าจอล็อค</string>
-  <string name="bootanim_settings_title">ภาพเปิดเครื่อง</string>
-  <string name="soundpack_settings_title">แพ็คเสียง</string>
   <string name="performance_settings_title">ประสิทธิภาพ</string>
   <string name="performance_settings_warning_title">ใช้ด้วยความระมัดระวัง</string>
   <string name="performance_settings_warning">การตั้งค่านี้ใช้เพื่อการทดลองและการเปลี่ยนแปลงใดๆในนี้อาจทำให้เกิดความไม่เสถียร ข้อมูลสูญหายหรืออุปกรณ์มีปัญหาได้\n\n พวกเราอยากขอให้คุณไม่แจ้งบัคเราหากค่าเหล่านี้ถูกเปลี่ยนไปจากค่าเริ่มต้น</string>

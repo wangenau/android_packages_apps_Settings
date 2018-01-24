@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Volume</string>
   <string name="title_tile_expanded_desktop">Uitgebreid bureaublad</string>
   <string name="title_tile_network_adb">ADB over netwerk</string>
-  <string name="title_tile_themes">Thema\'s</string>
   <string name="title_dynamic_tiles">Dynamische tegels</string>
   <string name="dynamic_tiles_note_title">Let op</string>
   <string name="dynamic_tiles_note_summary">Dynamische tegels zijn alleen zichtbaar indien opgeroepen door een systeemgebeurtenis</string>
@@ -410,15 +409,8 @@ Extra opties zijn beschikbaar door een regel lang aan te raken. Door \'Aanpassen
   <string name="preview_country_title">Land</string>
   <string name="preview_carrier_title">Provider</string>
   <string name="header_category_interface">Aanpassen</string>
-  <string name="themes_settings_title">Thema\'s</string>
-  <string name="themepacks_settings_title">Themapakketten</string>
-  <string name="styles_settings_title">Stijlen</string>
-  <string name="icons_settings_title">Pictogrammen</string>
-  <string name="fonts_settings_title">Lettertypen</string>
   <string name="wallpaper_settings_title_cm">Achtergronden</string>
   <string name="lockscreen_wallpaper_settings_title">Achtergronden vergrendelingsscherm</string>
-  <string name="bootanim_settings_title">Opstartanimaties</string>
-  <string name="soundpack_settings_title">Geluidspakketten</string>
   <string name="performance_settings_title">Prestaties</string>
   <string name="performance_settings_warning_title">Ga voorzichtig te werk</string>
   <string name="performance_settings_warning">Deze instellingen zijn experimenteel en kunnen leiden tot instabiliteit, crashes, gegevensverlies of hardwareschade.\n\nWij verzoeken u geen foutenrapporten in te sturen als deze instellingen anders zijn dan hun standaardwaarden.</string>

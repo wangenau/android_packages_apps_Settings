@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Громкость</string>
   <string name="title_tile_expanded_desktop">Расширенный экран</string>
   <string name="title_tile_network_adb">Отладка по сети</string>
-  <string name="title_tile_themes">Темы</string>
   <string name="title_dynamic_tiles">Динамические плитки</string>
   <string name="dynamic_tiles_note_title">Примечание</string>
   <string name="dynamic_tiles_note_summary">Динамические плитки видны, только если они вызваны системным событием</string>
@@ -411,15 +410,8 @@
   <string name="preview_country_title">Страна</string>
   <string name="preview_carrier_title">Оператор</string>
   <string name="header_category_interface">Персонализация</string>
-  <string name="themes_settings_title">Темы</string>
-  <string name="themepacks_settings_title">Наборы тем</string>
-  <string name="styles_settings_title">Стили</string>
-  <string name="icons_settings_title">Значки</string>
-  <string name="fonts_settings_title">Шрифты</string>
   <string name="wallpaper_settings_title_cm">Обои</string>
   <string name="lockscreen_wallpaper_settings_title">Обои экрана блокировки</string>
-  <string name="bootanim_settings_title">Анимация загрузки</string>
-  <string name="soundpack_settings_title">Наборы звуков</string>
   <string name="performance_settings_title">Производительность</string>
   <string name="performance_settings_warning_title">Соблюдайте осторожность</string>
   <string name="performance_settings_warning">Эти настройки являются экспериментальными. Любые внесённые изменения могут вызвать нестабильную работу, ошибки, потерю данных или аппаратные сбои.\n\nМы просим не присылать баг-репорты, если вы что-то меняли в этих настройках.</string>

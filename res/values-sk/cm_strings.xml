@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Hlasitosť</string>
   <string name="title_tile_expanded_desktop">Rozšírená plocha</string>
   <string name="title_tile_network_adb">ADB cez sieť</string>
-  <string name="title_tile_themes">Témy</string>
   <string name="title_dynamic_tiles">Dynamické dlaždice</string>
   <string name="dynamic_tiles_note_title">Poznámka</string>
   <string name="dynamic_tiles_note_summary">Dynamické dlaždice sa zobrazia len pri ich spustení systémovou udalosťou</string>
@@ -410,15 +409,8 @@ Každý riadok v zozname jasu zodpovedá jednému <i>riadiacemu bodu</i> krivky 
   <string name="preview_country_title">Krajina</string>
   <string name="preview_carrier_title">Operátor</string>
   <string name="header_category_interface">Personalizácia</string>
-  <string name="themes_settings_title">Témy</string>
-  <string name="themepacks_settings_title">Balíky tém</string>
-  <string name="styles_settings_title">Štýly</string>
-  <string name="icons_settings_title">Ikony</string>
-  <string name="fonts_settings_title">Písma</string>
   <string name="wallpaper_settings_title_cm">Tapety</string>
   <string name="lockscreen_wallpaper_settings_title">Tapety obrazovky uzamknutia</string>
-  <string name="bootanim_settings_title">Animácie spúšťania</string>
-  <string name="soundpack_settings_title">Balíky zvukov</string>
   <string name="performance_settings_title">Nastavenie výkonu</string>
   <string name="performance_settings_warning_title">Výstraha pred pokračovaním</string>
   <string name="performance_settings_warning">Tieto nastavenia sú experimentálne a akékoľvek vykonané zmeny môžu spôsobiť nestabilitu, pády, stratu údajov alebo hardvérové chyby.\n\nŽiadame vás, aby ste neposielali hlásenia o chybách, ak došlo zmene akýchkoľvek predvolených nastavení.</string>

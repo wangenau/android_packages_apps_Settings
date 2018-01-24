@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Volym</string>
   <string name="title_tile_expanded_desktop">Utökat skrivbord</string>
   <string name="title_tile_network_adb">ADB över nätverk</string>
-  <string name="title_tile_themes">Teman</string>
   <string name="title_dynamic_tiles">Dynamiska brickor</string>
   <string name="dynamic_tiles_note_title">Notis</string>
   <string name="dynamic_tiles_note_summary">Dynamiska bildrutor visas endast om utlöses av en systemhändelse</string>
@@ -426,15 +425,8 @@ som inte riskerar din integritet eller personliga data. Data skickas vid varje u
   <string name="preview_country_title">Land</string>
   <string name="preview_carrier_title">Operatör</string>
   <string name="header_category_interface">Anpassning</string>
-  <string name="themes_settings_title">Teman</string>
-  <string name="themepacks_settings_title">Temapaket</string>
-  <string name="styles_settings_title">Stilar</string>
-  <string name="icons_settings_title">Ikoner</string>
-  <string name="fonts_settings_title">Typsnitt</string>
   <string name="wallpaper_settings_title_cm">Bakgrundsbilder</string>
   <string name="lockscreen_wallpaper_settings_title">Bakgrundsbilder för låsskärm</string>
-  <string name="bootanim_settings_title">Uppstartsanimationer</string>
-  <string name="soundpack_settings_title">Ljudpaket</string>
   <string name="performance_settings_title">Prestanda</string>
   <string name="performance_settings_warning_title">Var försiktig</string>
   <string name="performance_settings_warning">Dessa inställningar är experimentella och alla tillämpade ändringar har potential att orsaka instabilitet, krascher, dataförlust eller hårdvarufel.\n\nVi önskar att du inte skickar felrapporter om någon av dessa inställningar är ändrade från sitt standardvärde.</string>

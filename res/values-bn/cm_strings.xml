@@ -270,7 +270,6 @@
   <string name="title_tile_volume">ভলিউম</string>
   <string name="title_tile_expanded_desktop">সম্প্রসারিত ডেক্সটপ</string>
   <string name="title_tile_network_adb">নেটওয়ার্ক এর উপরে এডিবি</string>
-  <string name="title_tile_themes">থিমস</string>
   <string name="title_dynamic_tiles">গতিশীল টাইলস</string>
   <string name="dynamic_tiles_note_title">নোট</string>
   <string name="dynamic_tiles_note_summary">প্রগতিশীল টালি শুধুমাত্র প্রদর্শিত হবে যদি একটি সিস্টেম ইভেন্টের সূত্রপাত হয়</string>
@@ -414,15 +413,8 @@
   <string name="preview_country_title">দেশ</string>
   <string name="preview_carrier_title">অপারেটর</string>
   <string name="header_category_interface">নিজস্বকরণ</string>
-  <string name="themes_settings_title">থিমস</string>
-  <string name="themepacks_settings_title">থিম প্যাকস</string>
-  <string name="styles_settings_title">শৈলী</string>
-  <string name="icons_settings_title">প্রতিমূর্তি</string>
-  <string name="fonts_settings_title">হরফ</string>
   <string name="wallpaper_settings_title_cm">ওয়ালপেপার গুলি</string>
   <string name="lockscreen_wallpaper_settings_title">বদ্ধ পর্দার ওয়ালপেপার</string>
-  <string name="bootanim_settings_title">বুট এনিমেশন</string>
-  <string name="soundpack_settings_title">শব্দ গুচ্ছ</string>
   <string name="performance_settings_title">সম্পাদন</string>
   <string name="performance_settings_warning_title">সতর্কতার সাথে এগিয়ে যান</string>
   <string name="performance_settings_warning">এই রুপান্তর নির্ধারণ পরীক্ষামূলক এবং কোন পরিবর্তন অস্থায়িত্ব, বিপর্যস্ত, ডাটা বা হার্ডওয়্যার ব্যর্থতা সম্ভাব্য কারণ হতে পরে।\n\nআমরা অনুরোধ করছি দয়াকরে বাগ রিপোর্ট করবেন না, যদি কোন রুপান্তর নির্ধারণ তাদের পূর্ব-নির্ধারিত অবস্থা থেকে পরিবর্তন করা হয়।</string>

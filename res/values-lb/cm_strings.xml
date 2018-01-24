@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Lautstäerk</string>
   <string name="title_tile_expanded_desktop">Vergréisserten Desktop</string>
   <string name="title_tile_network_adb">ADB iwwer Netzwierk</string>
-  <string name="title_tile_themes">Designen</string>
   <string name="title_dynamic_tiles">Dynamesch Kachelen</string>
   <string name="dynamic_tiles_note_title">Note</string>
   <string name="dynamic_tiles_note_summary">Dynamesch Kachele gi just ugewise, wa se duerch e Systemevenement ausgeléist ginn</string>
@@ -410,15 +409,8 @@ Duerch laangt Drécken op d\'Zeile sti weider Optiounen zur Verfügung. Duerch D
   <string name="preview_country_title">Land</string>
   <string name="preview_carrier_title">Provider</string>
   <string name="header_category_interface">Personaliséierung</string>
-  <string name="themes_settings_title">Designen</string>
-  <string name="themepacks_settings_title">Designpäck</string>
-  <string name="styles_settings_title">Stiler</string>
-  <string name="icons_settings_title">Symboler</string>
-  <string name="fonts_settings_title">Schrëftaarten</string>
   <string name="wallpaper_settings_title_cm">Hannergrondbiller</string>
   <string name="lockscreen_wallpaper_settings_title">Spärschierm-Hannergrënn</string>
-  <string name="bootanim_settings_title">Startanimatiounen</string>
-  <string name="soundpack_settings_title">Tounpäck</string>
   <string name="performance_settings_title">Leeschtung</string>
   <string name="performance_settings_warning_title">Opgepasst</string>
   <string name="performance_settings_warning">Dës Astellunge sinn experimentell a kënne potentiell d\'Leeschtung an d\'Stabilitéit vum System beaflossen an Ofstierz, Dateverloscht oder Hardwareversoe verursaachen.\n\nW.e.g. keng Feeler melle wann d\'Standardastellunge geännert goufen.</string>

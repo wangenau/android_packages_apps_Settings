@@ -271,7 +271,6 @@
   <string name="title_tile_volume">ශබ්දය</string>
   <string name="title_tile_expanded_desktop">විහිදුණු වැඩතලය</string>
   <string name="title_tile_network_adb">ජාලය හරහා ADB</string>
-  <string name="title_tile_themes">තේමා</string>
   <string name="title_dynamic_tiles">ක්‍රියාශීලී උළු</string>
   <string name="dynamic_tiles_note_title">සටහන</string>
   <string name="dynamic_tiles_note_summary">පද්ධති සිදුවීමක් මගින් ක්‍රියාරම්භ වුවහොත් පමණක් ක්‍රියාශීලී උළු දෘශ්‍යමාන වනු ඇත</string>
@@ -409,15 +408,8 @@
   <string name="preview_country_title">රට</string>
   <string name="preview_carrier_title">වාහකය</string>
   <string name="header_category_interface">පුද්ගලායනය</string>
-  <string name="themes_settings_title">තේමා</string>
-  <string name="themepacks_settings_title">තේමා පොදි</string>
-  <string name="styles_settings_title">විලාස</string>
-  <string name="icons_settings_title">අයිකන</string>
-  <string name="fonts_settings_title">ෆොන්ට</string>
   <string name="wallpaper_settings_title_cm">වෝල්පේපර</string>
   <string name="lockscreen_wallpaper_settings_title">අගුළු තිර වෝල්පේපර</string>
-  <string name="bootanim_settings_title">ඇරඹුම් සජීවීකරණ</string>
-  <string name="soundpack_settings_title">ශබ්ද පොදි</string>
   <string name="performance_settings_title">ක්‍රියාකාරීත්වය</string>
   <string name="performance_settings_warning_title">අවදානම අනුදැන ඉදිරියට යන්න</string>
   <string name="performance_settings_warning">මෙම සැකසීම් පරීක්ෂණාත්මකය, එබැවින් අස්ථායිතා , බිඳ වැටීම්, දත්ත නැතිවීම් හෝ දෘඩාංග ඇනහිටීම් ඇතිකිරීමේ හැකියාව යොදාගන්නා සෑම වෙනසකම ඇත.\n\nකිසියම් හෝ සැකසීමක් ඒවායේ පෙරනිමියෙන් වෙනස් කර ඇත්නම් දෝෂ වාර්තා ගොනු නොකරන මෙන් අපි ඔබෙන් ඉල්ලා සිටිමු.</string>

@@ -271,7 +271,6 @@
   <string name="title_tile_volume">עוצמת קול</string>
   <string name="title_tile_expanded_desktop">שולחן עבודה מורחב</string>
   <string name="title_tile_network_adb">ADB דרך הרשת</string>
-  <string name="title_tile_themes">ערכות נושא</string>
   <string name="title_dynamic_tiles">אריחים דינמיים</string>
   <string name="dynamic_tiles_note_title">הערה</string>
   <string name="dynamic_tiles_note_summary">אריחים דינמיים יופיעו אך ורק אם הופעלו על-ידי פעולת מערכת</string>
@@ -424,15 +423,8 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
   <string name="preview_country_title">מדינה</string>
   <string name="preview_carrier_title">מפעיל</string>
   <string name="header_category_interface">התאמה אישית</string>
-  <string name="themes_settings_title">ערכות עיצוב</string>
-  <string name="themepacks_settings_title">ערכות עיצוב</string>
-  <string name="styles_settings_title">סגנונות</string>
-  <string name="icons_settings_title">סמלים</string>
-  <string name="fonts_settings_title">גופנים</string>
   <string name="wallpaper_settings_title_cm">רקעים</string>
   <string name="lockscreen_wallpaper_settings_title">רקעים למסך הנעילה</string>
-  <string name="bootanim_settings_title">אנימציות אתחול</string>
-  <string name="soundpack_settings_title">ערכות צלילים</string>
   <string name="performance_settings_title">ביצועים</string>
   <string name="performance_settings_warning_title">המשך בזהירות</string>
   <string name="performance_settings_warning">הגדרות אלה ניסיוניות והחלת השינויים יכול לגרום לחוסר יציבות, קריסות, איבוד מידע או כשל חומרה.\n\nאנו מבקשים לא למלות דיווח באגים אם שיניתה את אחת ההגדרות.</string>

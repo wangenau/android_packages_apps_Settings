@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Lydstyrke</string>
   <string name="title_tile_expanded_desktop">Udvidet skrivebord</string>
   <string name="title_tile_network_adb">ADB via netværk</string>
-  <string name="title_tile_themes">Temaer</string>
   <string name="title_dynamic_tiles">Dynamiske felter</string>
   <string name="dynamic_tiles_note_title">NB:</string>
   <string name="dynamic_tiles_note_summary">Dynamiske fliser vises kun, hvis udløst af en systemhændelse</string>
@@ -410,15 +409,8 @@ Yderligere indstillinger er tilgængelige ved at trykke længe på en linje. Ved
   <string name="preview_country_title">Land</string>
   <string name="preview_carrier_title">Operatør</string>
   <string name="header_category_interface">Tilpasning</string>
-  <string name="themes_settings_title">Temaer</string>
-  <string name="themepacks_settings_title">Temapakker</string>
-  <string name="styles_settings_title">Stilarter</string>
-  <string name="icons_settings_title">Ikoner</string>
-  <string name="fonts_settings_title">Fonte</string>
   <string name="wallpaper_settings_title_cm">Baggrunde</string>
   <string name="lockscreen_wallpaper_settings_title">Baggrunde til skærmlås</string>
-  <string name="bootanim_settings_title">Opstartsanimationer</string>
-  <string name="soundpack_settings_title">Lydpakker</string>
   <string name="performance_settings_title">Ydeevne</string>
   <string name="performance_settings_warning_title">Fortsæt med forsigtighed</string>
   <string name="performance_settings_warning">Disse indstillinger er eksperimenterende, og alle ændringer her har potentiale til at forårsage ustabilitet, nedbrud, tab af data eller hardwarefejl.\n\nVi anmoder dig om, at du ikke indsender fejlrapporter, hvis nogen af disse indstillinger er blevet ændret fra deres standardværdier.</string>

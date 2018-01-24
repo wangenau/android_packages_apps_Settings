@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Volume</string>
   <string name="title_tile_expanded_desktop">Estender escritoriu</string>
   <string name="title_tile_network_adb">ADB sobre rede</string>
-  <string name="title_tile_themes">Temes</string>
   <string name="title_dynamic_tiles">Controles dinámicos</string>
   <string name="dynamic_tiles_note_title">Nota</string>
   <string name="dynamic_tiles_note_summary">Los controles dinámicos namái van apaecer por eventu del sistema</string>
@@ -411,15 +410,8 @@ Tocando de mou prollongáu cada llinia, van amosase opciones adicionales. Seleic
   <string name="preview_country_title">País</string>
   <string name="preview_carrier_title">Operadora móvil</string>
   <string name="header_category_interface">Personalización</string>
-  <string name="themes_settings_title">Temes</string>
-  <string name="themepacks_settings_title">Paquetes de temes</string>
-  <string name="styles_settings_title">Estilos</string>
-  <string name="icons_settings_title">Iconos</string>
-  <string name="fonts_settings_title">Fontes</string>
   <string name="wallpaper_settings_title_cm">Fondos de pantalla</string>
   <string name="lockscreen_wallpaper_settings_title">Fondos de la pantalla de bloquéu</string>
-  <string name="bootanim_settings_title">Animaciones d\'aniciu</string>
-  <string name="soundpack_settings_title">Paquetes de soníos</string>
   <string name="performance_settings_title">Rindimientu</string>
   <string name="performance_settings_warning_title">Procede con curiáu</string>
   <string name="performance_settings_warning">Estos axustes incluyéronse a mou d\'esperimentación y cualquier cambéu fechu sobre ellos pue causar inestabilidá, zarru d\'aplicaciones, perda de datos o fallos de hardware.\n\nNun comuniques informes de fallos si camudasti dalgún de los valores definíos por defeutu.</string>

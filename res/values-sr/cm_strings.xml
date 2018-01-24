@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Јачина звука</string>
   <string name="title_tile_expanded_desktop">Проширен екран</string>
   <string name="title_tile_network_adb">ADB преко мреже</string>
-  <string name="title_tile_themes">Теме</string>
   <string name="title_dynamic_tiles">Динамичне плочице</string>
   <string name="dynamic_tiles_note_title">Напомена</string>
   <string name="dynamic_tiles_note_summary">Динамичне плочице ће се једино појавити ако буду изазване догађајем система</string>
@@ -417,15 +416,8 @@
   <string name="preview_country_title">Земља</string>
   <string name="preview_carrier_title">Преносилац</string>
   <string name="header_category_interface">Персонализовање</string>
-  <string name="themes_settings_title">Теме</string>
-  <string name="themepacks_settings_title">Пакети тема</string>
-  <string name="styles_settings_title">Стилови</string>
-  <string name="icons_settings_title">Иконе</string>
-  <string name="fonts_settings_title">Фонтови</string>
   <string name="wallpaper_settings_title_cm">Позадине</string>
   <string name="lockscreen_wallpaper_settings_title">Позадине закључаног екрана</string>
-  <string name="bootanim_settings_title">Покретачке анимације</string>
-  <string name="soundpack_settings_title">Пакети звукова</string>
   <string name="performance_settings_title">Перформансе</string>
   <string name="performance_settings_warning_title">Настави са опрезом</string>
   <string name="performance_settings_warning">Ова подешавања су експериментална и примена било које промене има потенцијал да изазове нестабилност, падове, губитак података или грешке у раду хардвера.\n\nЗахтевамо да не подносиш извештаје о грешкама ако било које  подешавање измениш из својих подразумеваних вредности.</string>

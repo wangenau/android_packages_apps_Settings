@@ -369,15 +369,8 @@
   <string name="preview_country_title">الدولة</string>
   <string name="preview_carrier_title">جهة الشحن</string>
   <string name="header_category_interface">إضفاء الطابع الشخصي</string>
-  <string name="themes_settings_title">المواضيع</string>
-  <string name="themepacks_settings_title">حزم المواضيع</string>
-  <string name="styles_settings_title">أنماط</string>
-  <string name="icons_settings_title">أيقونات</string>
-  <string name="fonts_settings_title">الخطوط</string>
   <string name="wallpaper_settings_title_cm">خلفيات</string>
   <string name="lockscreen_wallpaper_settings_title">خلفيات قفل الشاشة</string>
-  <string name="bootanim_settings_title">الرسوم المتحركة في التشغيل</string>
-  <string name="soundpack_settings_title">حزم الصوت</string>
   <string name="performance_settings_title">الأداء</string>
   <string name="performance_settings_warning_title">المضي قدما بحذر</string>
   <string name="performance_settings_warning">هذه الإعدادات تجريبية وتطبيق أية تغييرات لديها القدرة على التسبب في عدم الاستقرار، وتحطم، وفقدان البيانات أو فشل الأجهزة.\n\nونحن نطلب منكم لاملف تقارير الأعطال إذا تم تغيير أي إعدادات من إعداداتها الافتراضية.</string>

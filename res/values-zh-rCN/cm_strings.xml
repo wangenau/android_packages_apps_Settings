@@ -271,7 +271,6 @@
   <string name="title_tile_volume">音量</string>
   <string name="title_tile_expanded_desktop">扩展桌面</string>
   <string name="title_tile_network_adb">网络 ADB 调试</string>
-  <string name="title_tile_themes">主题</string>
   <string name="title_dynamic_tiles">动态按钮</string>
   <string name="dynamic_tiles_note_title">注意</string>
   <string name="dynamic_tiles_note_summary">动态按钮只有在系统事件触发的时候才会显示</string>
@@ -410,15 +409,8 @@
   <string name="preview_country_title">国家</string>
   <string name="preview_carrier_title">运营商</string>
   <string name="header_category_interface">个性化</string>
-  <string name="themes_settings_title">主题</string>
-  <string name="themepacks_settings_title">主题包</string>
-  <string name="styles_settings_title">样式</string>
-  <string name="icons_settings_title">图标</string>
-  <string name="fonts_settings_title">字体</string>
   <string name="wallpaper_settings_title_cm">壁纸</string>
   <string name="lockscreen_wallpaper_settings_title">锁屏壁纸</string>
-  <string name="bootanim_settings_title">开机动画</string>
-  <string name="soundpack_settings_title">音效包</string>
   <string name="performance_settings_title">性能</string>
   <string name="performance_settings_warning_title">请谨慎前进</string>
   <string name="performance_settings_warning">这些设置是实验性的，任何应用的改变都有可能导致不稳定、崩溃、数据丢失或硬件故障。\n\n如果您更改了默认设置，我们请求您不要提交错误报告。</string>

@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Garsumas</string>
   <string name="title_tile_expanded_desktop">Išplėstas darbastalis</string>
   <string name="title_tile_network_adb">USB derin. per tinklą</string>
-  <string name="title_tile_themes">Temos</string>
   <string name="title_dynamic_tiles">Dinaminės plytelės</string>
   <string name="dynamic_tiles_note_title">Pastaba</string>
   <string name="dynamic_tiles_note_summary">Dinaminės plytelės rodomos nevisuomet, jos atsiranda tik pareikalavus sistemai</string>
@@ -424,15 +423,8 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
   <string name="preview_country_title">Šalis</string>
   <string name="preview_carrier_title">Operatorius</string>
   <string name="header_category_interface">Personalizavimas</string>
-  <string name="themes_settings_title">Temos</string>
-  <string name="themepacks_settings_title">Temų paketai</string>
-  <string name="styles_settings_title">Stiliai</string>
-  <string name="icons_settings_title">Piktogramos</string>
-  <string name="fonts_settings_title">Šriftai</string>
   <string name="wallpaper_settings_title_cm">Darbalaukio fonai</string>
   <string name="lockscreen_wallpaper_settings_title">Ekrano užrakto fonai</string>
-  <string name="bootanim_settings_title">Įkrovos animacijos</string>
-  <string name="soundpack_settings_title">Garso paketai</string>
   <string name="performance_settings_title">Našumas</string>
   <string name="performance_settings_warning_title">Tęskite atsargiai</string>
   <string name="performance_settings_warning">Šie nustatymai yra eksperimentiniai, visi pritaikyti pakeitimai turi potencialą sukelti nestabilumą, duomenų praradimą ar aparatūros gedimus.\n\nPrašome jūsų neinformuoti apie atsiradusias triktis pakeitus nustatymus šioje skiltyje.</string>

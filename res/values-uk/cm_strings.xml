@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Гучність</string>
   <string name="title_tile_expanded_desktop">Розширений робочий стіл</string>
   <string name="title_tile_network_adb">Налагодження по мережі</string>
-  <string name="title_tile_themes">Теми</string>
   <string name="title_dynamic_tiles">Динамічні плитки</string>
   <string name="dynamic_tiles_note_title">Примітка</string>
   <string name="dynamic_tiles_note_summary">Динамічні плитки видно, тільки якщо вони викликані системною подією</string>
@@ -410,15 +409,8 @@
   <string name="preview_country_title">Країна</string>
   <string name="preview_carrier_title">Оператор</string>
   <string name="header_category_interface">Персоналізація</string>
-  <string name="themes_settings_title">Теми</string>
-  <string name="themepacks_settings_title">Пакети тем</string>
-  <string name="styles_settings_title">Стилі</string>
-  <string name="icons_settings_title">Iконки</string>
-  <string name="fonts_settings_title">Шрифти</string>
   <string name="wallpaper_settings_title_cm">Шпалери</string>
   <string name="lockscreen_wallpaper_settings_title">Шпалери екрану блокування</string>
-  <string name="bootanim_settings_title">Анімації завантаження</string>
-  <string name="soundpack_settings_title">Пакети звуків</string>
   <string name="performance_settings_title">Продуктивність</string>
   <string name="performance_settings_warning_title">Будьте обережні</string>
   <string name="performance_settings_warning">Ці налаштуванні увімкнені для експериментів та будь-які внесені зміни можуть викликати нестабільну роботу, збої, втрату даних чи апаратні проблеми.\n\nМи просимо не надсилати повідомлення про помилки, якщо Ви що-небудь змінювали в цих налаштуваннях.</string>

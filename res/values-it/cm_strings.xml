@@ -271,7 +271,6 @@
   <string name="title_tile_volume">Volume</string>
   <string name="title_tile_expanded_desktop">Desktop esteso</string>
   <string name="title_tile_network_adb">ADB attraverso la rete</string>
-  <string name="title_tile_themes">Temi</string>
   <string name="title_dynamic_tiles">Tile dinamici</string>
   <string name="dynamic_tiles_note_title">Nota</string>
   <string name="dynamic_tiles_note_summary">I tile dinamici appariranno solo se un evento di sistema li attiva</string>
@@ -422,15 +421,8 @@ inserire punti di controllo aggiuntivi. \'Rimuovi\' elimina la riga selezionata.
   <string name="preview_country_title">Nazione</string>
   <string name="preview_carrier_title">Operatore</string>
   <string name="header_category_interface">Personalizzazione</string>
-  <string name="themes_settings_title">Temi</string>
-  <string name="themepacks_settings_title">Pacchetti tema</string>
-  <string name="styles_settings_title">Stili</string>
-  <string name="icons_settings_title">Icone</string>
-  <string name="fonts_settings_title">Caratteri</string>
   <string name="wallpaper_settings_title_cm">Sfondi</string>
   <string name="lockscreen_wallpaper_settings_title">Sfondi schermata sblocco</string>
-  <string name="bootanim_settings_title">Animazioni di avvio</string>
-  <string name="soundpack_settings_title">Pacchetti suoni</string>
   <string name="performance_settings_title">Prestazioni</string>
   <string name="performance_settings_warning_title">Procedere con cautela</string>
   <string name="performance_settings_warning">Queste impostazioni sono sperimentali e qualsiasi loro cambiamento potrebbe causare instabilità, crash, perdita di dati e danni all\'hardware.\n\nNon inviate segnalazioni di bug se una qualsiasi di queste impostazioni è stata modificata.</string>
