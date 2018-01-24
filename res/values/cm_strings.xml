@@ -379,7 +379,6 @@
     <string name="title_tile_volume">Volume</string>
     <string name="title_tile_expanded_desktop">Expanded desktop</string>
     <string name="title_tile_network_adb">ADB over network</string>
-    <string name="title_tile_themes">Themes</string>
     <string name="title_tile_fast_charge">Fast charge</string>
 
     <string name="title_dynamic_tiles">Dynamic tiles</string>
@@ -577,18 +576,8 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="header_category_interface">Personalization</string>
 
     <!-- Themes Settings -->
-    <!-- Settings main menu entry -->
-    <string name="themes_settings_title">Themes</string>
-
-    <!-- The following are entries under the themes menu -->
-    <string name="themepacks_settings_title">Theme packs</string>
-    <string name="styles_settings_title">Styles</string>
-    <string name="icons_settings_title">Icons</string>
-    <string name="fonts_settings_title">Fonts</string>
     <string name="wallpaper_settings_title_cm">Wallpapers</string>
     <string name="lockscreen_wallpaper_settings_title">Lock screen wallpapers</string>
-    <string name="bootanim_settings_title">Boot animations</string>
-    <string name="soundpack_settings_title">Sound packs</string>
 
     <!-- Performance settings -->
     <string name="performance_settings_title">Performance</string>
