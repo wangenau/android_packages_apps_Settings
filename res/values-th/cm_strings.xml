@@ -428,11 +428,9 @@
   <string name="pref_force_highend_gfx_summary">บังคับใช้กราฟฟิกโปร่งใสระดับสูง เช่น ทำให้แถบสถานะ/แถบนำทางโปร่งใส (ต้องเริ่มระบบใหม่)</string>
   <string name="kill_app_longpress_back">ปิดแอปด้วยปุ่มกลับ</string>
   <string name="kill_app_longpress_back_summary">ปิดแอปที่กำลังใช้งานโดยกดปุ่มกลับค้าง</string>
-  <string name="changelog_title">ความเปลี่ยนแปลง</string>
   <string name="changelog_error">ไม่สามารถโหลดความเปลี่ยนแปลงได้</string>
   <string name="contributor_cloud_title">ผู้ร่วมพัฒนา</string>
   <string name="cmupdate_settings_title">ปรับปรุงรุ่น LineageOS</string>
-  <string name="development_tools_title">เปิดอุปกรณ์ช่วยเหลือ</string>
   <string name="allow_mock_sms">อนุญาตใช้ข้อความจำลอง</string>
   <string name="privacy_settings_cyanogenmod_title">ความเป็นส่วนตัว</string>
   <string name="privacy_guard_switch_label">เปิดการป้องกันความเป็นส่วนตัว</string>

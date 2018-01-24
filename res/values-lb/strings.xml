@@ -785,7 +785,6 @@ D\'Verschlësselung dauert mindestens eng Stonn, während där den Telefon e pue
   <string name="pin_failed">SIM-PIN-Operatioun feelgeschloen!</string>
   <string name="device_info_settings" product="tablet">Tablet-Status</string>
   <string name="device_info_settings" product="default">Telefonsstatus</string>
-  <string name="system_update_settings_list_item_title">Systemaktualiséierungen</string>
   <string name="firmware_version">Android-Versioun</string>
   <string name="model_number">Modellnummer</string>
   <string name="fcc_equipment_id">Apparat-ID</string>
@@ -1323,8 +1322,6 @@ Fir d\'Performance ze verbesseren an de Späicherverbrauch ze reduzéiere stinn 
   <string name="enable_adb">Feelersich iwwer USB</string>
   <string name="enable_adb_summary">Debug-Modus wann USB connectéiert ass</string>
   <string name="clear_adb_keys">USB-Debugging-Erlaabnes zréckhuelen</string>
-  <string name="bugreport_in_power">Feelerberichter am Ausschaltmenü</string>
-  <string name="bugreport_in_power_summary">Eng Optioun fir Feelerberichter ze schreiwen am Ausschaltmenü uweisen</string>
   <string name="keep_screen_on">Waakreg bleiwen</string>
   <string name="keep_screen_on_summary">Schierm beim Oplueden ëmmer uloossen</string>
   <string name="bt_hci_snoop_log">Bluetooth-HCI-Snoop-Protokoll aktivéieren</string>
@@ -1941,7 +1938,6 @@ Fir d\'Performance ze verbesseren an de Späicherverbrauch ze reduzéiere stinn 
   <string name="backup_pw_set_button_text">Backup-Passwuert setzen</string>
   <string name="backup_pw_cancel_button_text">Ofbriechen</string>
   <string name="percentage"><xliff:g id="number" example="30">%d</xliff:g>%%</string>
-  <string name="additional_system_update_settings_list_item_title">Zousätzlech Systemaktualiséierungen</string>
   <string name="selinux_status_disabled">Desaktivéiert</string>
   <string name="selinux_status_permissive">Moderat</string>
   <string name="selinux_status_enforcing">Strikt</string>

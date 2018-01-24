@@ -801,7 +801,6 @@
   <string name="pin_failed">کارکردنی کۆدی PIN شکستی هێنا!</string>
   <string name="device_info_settings" product="tablet">دۆخی تاتەژمێرەکە</string>
   <string name="device_info_settings" product="default">دۆخی تەلەفۆنەکە</string>
-  <string name="system_update_settings_list_item_title">تازەکردنەوەی سیستەم</string>
   <string name="firmware_version">وەشانی ئەندرۆید</string>
   <string name="model_number">ژمارەی مۆدێل</string>
   <string name="fcc_equipment_id">Equipment ID</string>
@@ -1358,8 +1357,6 @@
   <string name="enable_adb">هەڵەدۆزینەوەی USB</string>
   <string name="enable_adb_summary">دۆخی هەڵەدۆزینەوە کاتێک بە USB بەستراوە</string>
   <string name="clear_adb_keys">هەڵگرتنەوەی USB</string>
-  <string name="bugreport_in_power">دوگمەی ڕاپۆرتی هێزی پێڕست</string>
-  <string name="bugreport_in_power_summary">هەڵبژاردەکان دەگرێتەوە بۆ هێزی پێڕست بۆ بردنی راپۆرتی خراپ</string>
   <string name="keep_screen_on">لەباری هەڵسان وەستان</string>
   <string name="keep_screen_on_summary">شاشەکە ناخەوێت لە کاتی بارگاویکردن</string>
   <string name="bt_hci_snoop_log">چالاککردنی بلوتوسHCI تۆمار</string>
@@ -2004,7 +2001,6 @@
   <string name="backup_pw_set_button_text">دانانی تێپەڕەوشە بۆ پاشەکەوتکردن</string>
   <string name="backup_pw_cancel_button_text">هەڵوەشاندنەوە</string>
   <string name="percentage"><xliff:g id="number" example="30">%d</xliff:g>%%</string>
-  <string name="additional_system_update_settings_list_item_title">تازەکردنەوەی سیستەمی زیادە</string>
   <string name="selinux_status_disabled">نەتوانا کرا</string>
   <string name="selinux_status_permissive">شل</string>
   <string name="selinux_status_enforcing">سەپاندن</string>

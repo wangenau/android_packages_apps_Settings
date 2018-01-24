@@ -788,8 +788,6 @@
     <string name="pin_failed" msgid="1848423634948587645">"Deblocarea cu ajutorul codului PIN pentru cardul SIM nu a reușit!"</string>
     <string name="device_info_settings" product="tablet" msgid="1119755927536987178">"Stare tabletă"</string>
     <string name="device_info_settings" product="default" msgid="475872867864762157">"Stare telefon"</string>
-    <string name="system_update_settings_list_item_title" msgid="3342887311059985961">"Actualizări de sistem"</string>
-    <string name="system_update_settings_list_item_summary" msgid="3853057315907710747"></string>
     <string name="firmware_version" msgid="4801135784886859972">"Versiune Android"</string>
     <string name="security_patch" msgid="8438384045870296634">"Nivelul corecției de securitate Android"</string>
     <string name="model_number" msgid="3765737700545384794">"Număr model"</string>
@@ -1326,8 +1324,6 @@
     <string name="enable_adb" msgid="7982306934419797485">"Depanare USB"</string>
     <string name="enable_adb_summary" msgid="4881186971746056635">"Mod de depanare când este conectat USB"</string>
     <string name="clear_adb_keys" msgid="4038889221503122743">"Revoc autorizații depanare USB"</string>
-    <string name="bugreport_in_power" msgid="4548816486587403971">"Raport erori în meniul de pornire"</string>
-    <string name="bugreport_in_power_summary" msgid="5764234382355067053">"Includeţi în meniul de pornire opţiunea de a executa un raport despre erori"</string>
     <string name="keep_screen_on" msgid="1146389631208760344">"Activ permanent"</string>
     <string name="keep_screen_on_summary" msgid="2173114350754293009">"Ecranul nu va fi inactiv pe durata încărcării"</string>
     <string name="bt_hci_snoop_log" msgid="3340699311158865670">"Activați jurnalul de examinare HCI Bluetooth"</string>
@@ -1948,7 +1944,6 @@
     <string name="backup_pw_set_button_text" msgid="2387480910044648795">"Setaţi parola pentru copia de rezervă"</string>
     <string name="backup_pw_cancel_button_text" msgid="8845630125391744615">"Anulaţi"</string>
     <string name="percentage" msgid="5866131581207788624">"<xliff:g id="NUMBER">%d</xliff:g>%%"</string>
-    <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"Actualizări de sistem suplimentare"</string>
     <string name="selinux_status_disabled" msgid="924551035552323327">"Dezactivat"</string>
     <string name="selinux_status_permissive" msgid="6004965534713398778">"Facultativ"</string>
     <string name="selinux_status_enforcing" msgid="2252703756208463329">"Obligatoriu"</string>

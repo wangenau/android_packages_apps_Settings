@@ -788,8 +788,6 @@
     <string name="pin_failed" msgid="1848423634948587645">"Postopek za odklepanje s kodo PIN kartice SIM ni uspel."</string>
     <string name="device_info_settings" product="tablet" msgid="1119755927536987178">"Stanje tabličnega računalnika"</string>
     <string name="device_info_settings" product="default" msgid="475872867864762157">"Stanje telefona"</string>
-    <string name="system_update_settings_list_item_title" msgid="3342887311059985961">"Sistemske posodobitve"</string>
-    <string name="system_update_settings_list_item_summary" msgid="3853057315907710747"></string>
     <string name="firmware_version" msgid="4801135784886859972">"Različica sistema Android"</string>
     <string name="security_patch" msgid="8438384045870296634">"Raven popravkov za varnost v Androidu"</string>
     <string name="model_number" msgid="3765737700545384794">"Številka modela"</string>
@@ -1325,8 +1323,6 @@
     <string name="enable_adb" msgid="7982306934419797485">"Odpravljanje težav s povezavo USB"</string>
     <string name="enable_adb_summary" msgid="4881186971746056635">"Način za odpravljanje težav, ko je vzpostavljena povezava USB"</string>
     <string name="clear_adb_keys" msgid="4038889221503122743">"Preklic dovoljenj za odpravljanje težav prek povezave USB"</string>
-    <string name="bugreport_in_power" msgid="4548816486587403971">"Poročila o napakah v meniju z možnostmi za izklop/vklop"</string>
-    <string name="bugreport_in_power_summary" msgid="5764234382355067053">"Vključitev možnosti za poročila o napakah v meniju z možnostmi izklop/vklop"</string>
     <string name="keep_screen_on" msgid="1146389631208760344">"Brez zaklepanja"</string>
     <string name="keep_screen_on_summary" msgid="2173114350754293009">"Med polnjenjem se zaslon ne bo nikoli zaklenil"</string>
     <string name="bt_hci_snoop_log" msgid="3340699311158865670">"Omogoči dnevnik vohljanja Bluetooth HCI"</string>
@@ -1947,7 +1943,6 @@
     <string name="backup_pw_set_button_text" msgid="2387480910044648795">"Nastavi geslo za varnostno kopijo"</string>
     <string name="backup_pw_cancel_button_text" msgid="8845630125391744615">"Prekliči"</string>
     <string name="percentage" msgid="5866131581207788624">"<xliff:g id="NUMBER">%d</xliff:g>%%"</string>
-    <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"Dodatne posodobitve sistema"</string>
     <string name="selinux_status_disabled" msgid="924551035552323327">"Onemogočeno"</string>
     <string name="selinux_status_permissive" msgid="6004965534713398778">"Dopuščajoče"</string>
     <string name="selinux_status_enforcing" msgid="2252703756208463329">"Uveljavljajoče"</string>

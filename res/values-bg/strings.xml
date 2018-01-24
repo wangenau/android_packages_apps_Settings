@@ -788,8 +788,6 @@
     <string name="pin_failed" msgid="1848423634948587645">"Операцията с ПИН кода за SIM картата не бе успешна!"</string>
     <string name="device_info_settings" product="tablet" msgid="1119755927536987178">"Състояние на таблета"</string>
     <string name="device_info_settings" product="default" msgid="475872867864762157">"Състояние на телефона"</string>
-    <string name="system_update_settings_list_item_title" msgid="3342887311059985961">"Актуализации на системата"</string>
-    <string name="system_update_settings_list_item_summary" msgid="3853057315907710747"></string>
     <string name="firmware_version" msgid="4801135784886859972">"Версия на Android"</string>
     <string name="security_patch" msgid="8438384045870296634">"Ниво на корекцията на сигурността под Android"</string>
     <string name="model_number" msgid="3765737700545384794">"Номер на модел"</string>
@@ -1325,8 +1323,6 @@
     <string name="enable_adb" msgid="7982306934419797485">"Отстраняване на грешки през USB"</string>
     <string name="enable_adb_summary" msgid="4881186971746056635">"Режим за отстраняване на грешки, когато е свързано USB"</string>
     <string name="clear_adb_keys" msgid="4038889221503122743">"Отмяна на упълномощаванията за отстраняване на грешки през USB"</string>
-    <string name="bugreport_in_power" msgid="4548816486587403971">"Сигнали за програмни грешки в менюто за захранване"</string>
-    <string name="bugreport_in_power_summary" msgid="5764234382355067053">"Включване на опцията за получаване на сигнал за програмна грешка в менюто за захранване"</string>
     <string name="keep_screen_on" msgid="1146389631208760344">"Да остане активен"</string>
     <string name="keep_screen_on_summary" msgid="2173114350754293009">"Екранът никога няма да е в спящ режим при зареждане"</string>
     <string name="bt_hci_snoop_log" msgid="3340699311158865670">"Активиране на регистрационния файл за анализ на пакетите в команден ред за Bluetooth с протокола HCI"</string>
@@ -1947,7 +1943,6 @@
     <string name="backup_pw_set_button_text" msgid="2387480910044648795">"Задаване на парола за резервно копие"</string>
     <string name="backup_pw_cancel_button_text" msgid="8845630125391744615">"Отказ"</string>
     <string name="percentage" msgid="5866131581207788624">"<xliff:g id="NUMBER">%d</xliff:g>%%"</string>
-    <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"Допълнителни системни актуализации"</string>
     <string name="selinux_status_disabled" msgid="924551035552323327">"Деактивирано"</string>
     <string name="selinux_status_permissive" msgid="6004965534713398778">"Разрешаващо"</string>
     <string name="selinux_status_enforcing" msgid="2252703756208463329">"Налагане"</string>

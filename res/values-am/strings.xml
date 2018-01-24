@@ -788,8 +788,6 @@
     <string name="pin_failed" msgid="1848423634948587645">"የሲም ፒን ክወና አልተሳካም!"</string>
     <string name="device_info_settings" product="tablet" msgid="1119755927536987178">"የጡባዊ ኹነታ"</string>
     <string name="device_info_settings" product="default" msgid="475872867864762157">"የስልክ ሁኔታዎች"</string>
-    <string name="system_update_settings_list_item_title" msgid="3342887311059985961">"የሥርዓት ዝመናዎች"</string>
-    <string name="system_update_settings_list_item_summary" msgid="3853057315907710747"></string>
     <string name="firmware_version" msgid="4801135784886859972">"Android ሥሪት"</string>
     <string name="security_patch" msgid="8438384045870296634">"የAndroid ደህነንት መጠገኛ ደረጃ"</string>
     <string name="model_number" msgid="3765737700545384794">"የሞዴል ቁጥር"</string>
@@ -1325,8 +1323,6 @@
     <string name="enable_adb" msgid="7982306934419797485">"የUSB አራሚ"</string>
     <string name="enable_adb_summary" msgid="4881186971746056635">"USB ሲያያዝ የአርም ሁኔታ"</string>
     <string name="clear_adb_keys" msgid="4038889221503122743">"የዩ ኤስ ቢ ስህተት ማረም ፈቀዳዎችን ይሻሩ"</string>
-    <string name="bugreport_in_power" msgid="4548816486587403971">"የኃይል ምናሌ ሳንካ ሪፖርቶች"</string>
-    <string name="bugreport_in_power_summary" msgid="5764234382355067053">"የሳንካ ሪፖርት ለመውሰድ የኃይል ምናሌ ውስጥ አማራጩን ያካትቱ"</string>
     <string name="keep_screen_on" msgid="1146389631208760344">"ነቅተህ ቆይ"</string>
     <string name="keep_screen_on_summary" msgid="2173114350754293009">"ማያኃይል በመሙላት ላይበፍፁም አይተኛም"</string>
     <string name="bt_hci_snoop_log" msgid="3340699311158865670">"የብሉቱዝ HCI ስለላ ምዝግብ ማስታወሻን ያንቁ"</string>
@@ -1947,7 +1943,6 @@
     <string name="backup_pw_set_button_text" msgid="2387480910044648795">"የመጠባበቂያ ይለፍቃል አዘጋጅ"</string>
     <string name="backup_pw_cancel_button_text" msgid="8845630125391744615">"ይቅር"</string>
     <string name="percentage" msgid="5866131581207788624">"+<xliff:g id="NUMBER">%d</xliff:g>"</string>
-    <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"ተጨማሪ የስርዓት አዘምኖች"</string>
     <string name="selinux_status_disabled" msgid="924551035552323327">"ተሰናክሏል"</string>
     <string name="selinux_status_permissive" msgid="6004965534713398778">"ፈቃጅ"</string>
     <string name="selinux_status_enforcing" msgid="2252703756208463329">"በማስፈጸም ላይ"</string>

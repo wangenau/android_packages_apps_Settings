@@ -635,7 +635,6 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="kill_app_longpress_back_summary">Kill the foreground app by long pressing the back button</string>
 
     <!-- Change Log strings -->
-    <string name="changelog_title">Changelog</string>
     <string name="changelog_error">Unable to load changelog</string>
 
     <string name="contributor_cloud_title">Contributors</string>
@@ -644,7 +643,6 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="cmupdate_settings_title">LineageOS updates</string>
 
     <!-- Launches Dev Tools -->
-    <string name="development_tools_title">Launch Tools</string>
     <!-- Whether to allow mock SMS -->
     <string name="allow_mock_sms">Allow mock SMS</string>
 

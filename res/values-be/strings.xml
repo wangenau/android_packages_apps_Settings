@@ -806,8 +806,6 @@
     <skip />
     <string name="device_info_settings" product="tablet" msgid="1119755927536987178">"Стан планшэта"</string>
     <string name="device_info_settings" product="default" msgid="475872867864762157">"Стан тэлефону"</string>
-    <string name="system_update_settings_list_item_title" msgid="3342887311059985961">"Абнаўленні сiстэмы"</string>
-    <string name="system_update_settings_list_item_summary" msgid="3853057315907710747"></string>
     <string name="firmware_version" msgid="4801135784886859972">"Версія Android"</string>
     <string name="model_number" msgid="3765737700545384794">"Нумар мадэлі"</string>
     <string name="fcc_equipment_id" msgid="149114368246356737">"Iдэнтыфiкатар абсталявання"</string>
@@ -1372,8 +1370,6 @@
     <string name="enable_adb" msgid="7982306934419797485">"Адладка USB"</string>
     <string name="enable_adb_summary" msgid="4881186971746056635">"Рэжым адладкі, калі USB падключаны"</string>
     <string name="clear_adb_keys" msgid="4038889221503122743">"Адклікаць дазвол USB-адладкі"</string>
-    <string name="bugreport_in_power" msgid="4548816486587403971">"Справаздачы пра меню сiлкавання"</string>
-    <string name="bugreport_in_power_summary" msgid="5764234382355067053">"Уключыце параметр у меню сiлкавання, каб прыняць справаздачу пра памылку"</string>
     <string name="keep_screen_on" msgid="1146389631208760344">"Прадухіляць ад пераходу ў рэжым сну"</string>
     <string name="keep_screen_on_summary" msgid="2173114350754293009">"Экран ніколі не ўвайдзе ў рэжым сну падчас зарадкі"</string>
     <!-- no translation found for bt_hci_snoop_log (3340699311158865670) -->
@@ -2087,7 +2083,6 @@
     <string name="backup_pw_set_button_text" msgid="2387480910044648795">"Пазначце пароль рэзервовага капіравання"</string>
     <string name="backup_pw_cancel_button_text" msgid="8845630125391744615">"Адмена"</string>
     <string name="percentage" msgid="5866131581207788624">"<xliff:g id="NUMBER">%d</xliff:g>%%"</string>
-    <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"Дадатк. абнаўл. сістэмы"</string>
     <string name="selinux_status_disabled" msgid="924551035552323327">"Выключана"</string>
     <string name="selinux_status_permissive" msgid="6004965534713398778">"Дазвол"</string>
     <string name="selinux_status_enforcing" msgid="2252703756208463329">"Забеспячэнне"</string>

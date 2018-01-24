@@ -785,7 +785,6 @@
   <string name="pin_failed">SIM كارتا PIN مەشغۇلاتى مەغلۇپ بولدى!</string>
   <string name="device_info_settings" product="tablet">تاختا كومپيۇتېر ھالىتى</string>
   <string name="device_info_settings" product="default">تېلېفون ھالىتى</string>
-  <string name="system_update_settings_list_item_title">سىستېما يېڭىلاش</string>
   <string name="firmware_version">Android نەشرى</string>
   <string name="model_number">تىپ نومۇرى</string>
   <string name="fcc_equipment_id">ئۈسكۈنە كىملىك</string>
@@ -1309,8 +1308,6 @@
   <string name="enable_adb">USB سازلاش</string>
   <string name="enable_adb_summary">USB باغلانغاندا سازلاش ھالىتىنى قوزغات</string>
   <string name="clear_adb_keys">USB سازلاش ئىجازىتىنى بىكار قىلىدۇ</string>
-  <string name="bugreport_in_power">توك مەنبە تىزىملىك خاتالىق دوكلاتى</string>
-  <string name="bugreport_in_power_summary">توك مەنبە تىزىملىككە خاتالىق دوكلاتى يوللاش تاللانمىسى قوشىدۇ</string>
   <string name="keep_screen_on">ئويغاق ھالەتنى ساقلا</string>
   <string name="keep_screen_on_summary">توكلاۋاتقاندا ئېكراننى ھەرگىز ئۇخلاتما</string>
   <string name="bt_hci_snoop_log">كۆكچىشنىڭ HCI ئۇچۇر توپلاش خاتىرىسىنى قوزغات</string>
@@ -1923,7 +1920,6 @@
   <string name="backup_pw_set_button_text">زاپاسلاش ئىم تەڭشىكى</string>
   <string name="backup_pw_cancel_button_text">ۋاز كەچ</string>
   <string name="percentage"><xliff:g id="NUMBER">%d</xliff:g>%%</string>
-  <string name="additional_system_update_settings_list_item_title">قوشۇمچە سىستېما يېڭىلاش</string>
   <string name="selinux_status_disabled">چەكلەنگەن</string>
   <string name="selinux_status_permissive">ئىجازەت</string>
   <string name="selinux_status_enforcing">ئىجرا قىلىنىۋاتىدۇ</string>

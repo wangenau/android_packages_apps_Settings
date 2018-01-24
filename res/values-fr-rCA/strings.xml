@@ -788,8 +788,6 @@
     <string name="pin_failed" msgid="1848423634948587645">"Le déverrouillage par NIP de carte SIM a échoué."</string>
     <string name="device_info_settings" product="tablet" msgid="1119755927536987178">"État de la tablette"</string>
     <string name="device_info_settings" product="default" msgid="475872867864762157">"État du téléphone"</string>
-    <string name="system_update_settings_list_item_title" msgid="3342887311059985961">"Mises à jour du système"</string>
-    <string name="system_update_settings_list_item_summary" msgid="3853057315907710747"></string>
     <string name="firmware_version" msgid="4801135784886859972">"Version d\'Android"</string>
     <string name="security_patch" msgid="8438384045870296634">"Niveau du correctif de sécurité Android"</string>
     <string name="model_number" msgid="3765737700545384794">"Numéro du modèle"</string>
@@ -1325,8 +1323,6 @@
     <string name="enable_adb" msgid="7982306934419797485">"Débogage USB"</string>
     <string name="enable_adb_summary" msgid="4881186971746056635">"Mode débogage lorsqu\'un câble USB est connecté"</string>
     <string name="clear_adb_keys" msgid="4038889221503122743">"Annuler les autorisations relatives au débogage USB"</string>
-    <string name="bugreport_in_power" msgid="4548816486587403971">"Rapports de bogue du menu de démarrage"</string>
-    <string name="bugreport_in_power_summary" msgid="5764234382355067053">"Inclure une option permettant d\'établir un rapport de bug dans le menu de démarrage"</string>
     <string name="keep_screen_on" msgid="1146389631208760344">"Rester activé"</string>
     <string name="keep_screen_on_summary" msgid="2173114350754293009">"L\'écran ne se met jamais en veille lors du chargement"</string>
     <string name="bt_hci_snoop_log" msgid="3340699311158865670">"Activer le journal HCI Snoop Bluetooth"</string>
@@ -1949,7 +1945,6 @@
     <!-- String.format failed for translation -->
     <!-- no translation found for percentage (5866131581207788624) -->
     <skip />
-    <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"Mises à jour supplémentaires du système"</string>
     <string name="selinux_status_disabled" msgid="924551035552323327">"Désactivé"</string>
     <string name="selinux_status_permissive" msgid="6004965534713398778">"Permissif"</string>
     <string name="selinux_status_enforcing" msgid="2252703756208463329">"Application"</string>

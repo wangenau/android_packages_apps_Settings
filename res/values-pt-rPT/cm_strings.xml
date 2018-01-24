@@ -427,11 +427,9 @@
   <string name="pref_force_highend_gfx_summary">Ativa efeitos visuais de alta qualidade como barra de estado/navegação transparentes (requer reinicialização)</string>
   <string name="kill_app_longpress_back">Fechar aplicação no botão voltar</string>
   <string name="kill_app_longpress_back_summary">Mantendo pressionado o botão de voltar fecha a aplicação em primeiro plano</string>
-  <string name="changelog_title">Lista de alterações</string>
   <string name="changelog_error">Ocorreu um problema a carregar a lista de alterações</string>
   <string name="contributor_cloud_title">Colaboradores</string>
   <string name="cmupdate_settings_title">Atualizações</string>
-  <string name="development_tools_title">Ferramentas avançadas</string>
   <string name="allow_mock_sms">Permitir a simulação SMS</string>
   <string name="privacy_settings_cyanogenmod_title">Privacidade</string>
   <string name="privacy_guard_switch_label">Ativar a Proteção da Privacidade</string>

@@ -784,8 +784,6 @@
     <string name="sim_enter_cancel" msgid="6240422158517208036">"ຍົກເລີກ"</string>
     <string name="device_info_settings" product="tablet" msgid="1119755927536987178">"ສະຖານະແທັບເລັດ"</string>
     <string name="device_info_settings" product="default" msgid="475872867864762157">"ສະ​ຖາ​ນະ​ໂທລະ​ສັບ"</string>
-    <string name="system_update_settings_list_item_title" msgid="3342887311059985961">"ອັບເດດລະບົບ"</string>
-    <string name="system_update_settings_list_item_summary" msgid="3853057315907710747"></string>
     <string name="firmware_version" msgid="4801135784886859972">"ເວີຊັນຂອງ Android"</string>
     <string name="model_number" msgid="3765737700545384794">"ໝາຍເລກໂມເດວ"</string>
     <string name="fcc_equipment_id" msgid="149114368246356737">"ໝາຍເລກອຸປະກອນ"</string>
@@ -1317,8 +1315,6 @@
     <string name="enable_adb" msgid="7982306934419797485">"ການດີບັ໊ກຜ່ານ USB"</string>
     <string name="enable_adb_summary" msgid="4881186971746056635">"ເປີດໃຊ້ໂໝດດີບັ໊ກເມື່ອເຊື່ອມຕໍ່ USB"</string>
     <string name="clear_adb_keys" msgid="4038889221503122743">"ຖອດຖອນການອະນຸຍາດການດີບັ໊ກຜ່ານ USB"</string>
-    <string name="bugreport_in_power" msgid="4548816486587403971">"ກົດປຸ່ມ ປິດ/ເປີດ ເພື່ອແຈ້ງລາຍງານບັ໊ກ"</string>
-    <string name="bugreport_in_power_summary" msgid="5764234382355067053">"ຮວມໂຕເລືອກການລາຍງານຂໍ້ຜິດພາດໃນເມນູເປີດປິດ"</string>
     <string name="keep_screen_on" msgid="1146389631208760344">"ເປີດໜ້າຈໍຕະຫຼອດ"</string>
     <string name="keep_screen_on_summary" msgid="2173114350754293009">"ໜ້າຈໍຈະບໍ່ປິດໃນຂະນະທີ່ສາກໄຟຢູ່"</string>
     <string name="bt_hci_snoop_log" msgid="3340699311158865670">"ເປີດໃຊ້ງານການຊອດແນມ Bluetooth HCI"</string>
@@ -1898,7 +1894,6 @@
     <string name="backup_pw_set_button_text" msgid="2387480910044648795">"ຕັ້ງລະຫັດສຳຮອງຂໍ້ມູນ"</string>
     <string name="backup_pw_cancel_button_text" msgid="8845630125391744615">"ຍົກເລີກ"</string>
     <string name="percentage" msgid="5866131581207788624">"<xliff:g id="NUMBER">%d</xliff:g>%%"</string>
-    <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"ການອັບເດດລະບົບເພີ່ມເຕີມ"</string>
     <string name="selinux_status_disabled" msgid="924551035552323327">"ປິດການນຳໃຊ້"</string>
     <string name="selinux_status_permissive" msgid="6004965534713398778">"​ອະ​ນຸ​ຍາດ"</string>
     <string name="selinux_status_enforcing" msgid="2252703756208463329">"ການ​ບັງ​ຄັບ​ໃຊ້"</string>

@@ -451,11 +451,9 @@ Mittels \"Entfernen\" kann die ausgewählte Stützstelle aus dem Helligkeitsverl
   <string name="pref_force_highend_gfx_summary">Verbesserte Transparenz- und Animationseffekte wie z.B. Status- und Navigationsleistentransparenz verwenden (Neustart erforderlich)</string>
   <string name="kill_app_longpress_back">App beenden</string>
   <string name="kill_app_longpress_back_summary">Gedrückt halten der Zurück-Taste beendet die Anwendung im Vordergrund</string>
-  <string name="changelog_title">Changelog</string>
   <string name="changelog_error">Changelog kann nicht geladen werden</string>
   <string name="contributor_cloud_title">Mitwirkende</string>
   <string name="cmupdate_settings_title">LineageOS-Updates</string>
-  <string name="development_tools_title">Entwickler-Werkzeuge</string>
   <string name="allow_mock_sms">Simulierte SMS zulassen</string>
   <string name="privacy_settings_cyanogenmod_title">Datenschutz</string>
   <string name="privacy_guard_switch_label">Datenschutz aktivieren</string>

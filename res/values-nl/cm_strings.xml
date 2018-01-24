@@ -435,11 +435,9 @@ Extra opties zijn beschikbaar door een regel lang aan te raken. Door \'Aanpassen
   <string name="pref_force_highend_gfx_summary">Visuele effecten van hoge kwaliteit, zoals transparente status- en navigatiebalk, inschakelen (herstart vereist)</string>
   <string name="kill_app_longpress_back">Stoppen forceren</string>
   <string name="kill_app_longpress_back_summary">Openstaande app geforceerd stoppen door terugknop lang in te drukken</string>
-  <string name="changelog_title">Changelog</string>
   <string name="changelog_error">Kan changelog niet laden</string>
   <string name="contributor_cloud_title">Bijdragers</string>
   <string name="cmupdate_settings_title">LineageOS-updates</string>
-  <string name="development_tools_title">Tools openen</string>
   <string name="allow_mock_sms">Nep-sms toestaan</string>
   <string name="privacy_settings_cyanogenmod_title">Privacy</string>
   <string name="privacy_guard_switch_label">Privacybescherming</string>

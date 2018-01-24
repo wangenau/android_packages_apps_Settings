@@ -795,7 +795,6 @@
   <string name="pin_failed">Fallu al intentar desbloquiar la tarxeta SIM col códigu PIN</string>
   <string name="device_info_settings" product="tablet">Estáu de la tablet</string>
   <string name="device_info_settings" product="default">Estáu del teléfonu</string>
-  <string name="system_update_settings_list_item_title">Anovamientos del sistema</string>
   <string name="firmware_version">Versión d\'Android</string>
   <string name="model_number">Númberu de modelu</string>
   <string name="fcc_equipment_id">ID d\'equipu</string>
@@ -1322,8 +1321,6 @@
   <string name="enable_adb">Depuración USB</string>
   <string name="enable_adb_summary">Mou depuración cuando l\'USB tea coneutáu</string>
   <string name="clear_adb_keys">Revocar autorizaciones depur. USB</string>
-  <string name="bugreport_in_power">Informe d\'error menú encendíu</string>
-  <string name="bugreport_in_power_summary">Incluyir opción nel menú d\'encendíu pa xenerar un informe d\'error</string>
   <string name="keep_screen_on">Pantalla activa</string>
   <string name="keep_screen_on_summary">La pantalla enxamás entra en mou de suspensión si\'l preséu se ta cargando</string>
   <string name="bt_hci_snoop_log">Rexistru de busca de HCI Bluetooth</string>
@@ -1940,7 +1937,6 @@
   <string name="backup_pw_set_button_text">Afitar contraseña</string>
   <string name="backup_pw_cancel_button_text">Encaboxar</string>
   <string name="percentage"><xliff:g id="NUMBER">%d</xliff:g>%%</string>
-  <string name="additional_system_update_settings_list_item_title">Otros anovamientos del sistema</string>
   <string name="selinux_status_disabled">Inhabilitáu</string>
   <string name="selinux_status_permissive">Permisivu</string>
   <string name="selinux_status_enforcing">Obligatoriu</string>

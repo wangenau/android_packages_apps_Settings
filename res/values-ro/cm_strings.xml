@@ -449,11 +449,9 @@ două pentru a adăuga puncte de control adiționale. „Ștergere” elimină l
   <string name="pref_force_highend_gfx_summary">Permite efecte vizuale de calitate înaltă, cum ar fi transparența barei de stare/navigare (necesită repornire sistem)</string>
   <string name="kill_app_longpress_back">Butonul înapoi închide aplicația</string>
   <string name="kill_app_longpress_back_summary">Închide aplicația din prim-plan apăsând lung butonul înapoi</string>
-  <string name="changelog_title">Istoricul modificărilor</string>
   <string name="changelog_error">Nu am putut încărca jurnalul cu schimbări</string>
   <string name="contributor_cloud_title">Contribuitori</string>
   <string name="cmupdate_settings_title">Actualizări LineageOS</string>
-  <string name="development_tools_title">Instrumente lansare</string>
   <string name="allow_mock_sms">Permite SMS false</string>
   <string name="privacy_settings_cyanogenmod_title">Intimitate</string>
   <string name="privacy_guard_switch_label">Activare Gardian Intimitate</string>

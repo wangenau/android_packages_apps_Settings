@@ -436,11 +436,9 @@ Dodatkowe opcje są dostępne przez długie przytrzymanie linii. Wybierając opc
   <string name="pref_force_highend_gfx_summary">Włącza efekty graficzne wymagające lepszego sprzętu, takie jak przeźroczysty pasek stanu/nawigacji (wymaga restartu)</string>
   <string name="kill_app_longpress_back">Zabijaj aplikacje przyciskiem wstecz</string>
   <string name="kill_app_longpress_back_summary">Przytrzymanie przycisku wstecz zabija aktywną aplikację</string>
-  <string name="changelog_title">Lista zmian</string>
   <string name="changelog_error">Nie można wczytać listy zmian</string>
   <string name="contributor_cloud_title">Twórcy</string>
   <string name="cmupdate_settings_title">Aktualizacje LineageOS</string>
-  <string name="development_tools_title">Narzędzia uruchamiania</string>
   <string name="allow_mock_sms">Pozorowane SMS-y</string>
   <string name="privacy_settings_cyanogenmod_title">Prywatność</string>
   <string name="privacy_guard_switch_label">Aktywuj ochronę prywatności</string>

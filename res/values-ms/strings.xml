@@ -784,8 +784,6 @@
     <string name="sim_enter_cancel" msgid="6240422158517208036">"Batal"</string>
     <string name="device_info_settings" product="tablet" msgid="1119755927536987178">"Status tablet"</string>
     <string name="device_info_settings" product="default" msgid="475872867864762157">"Status telefon"</string>
-    <string name="system_update_settings_list_item_title" msgid="3342887311059985961">"Kemas kini sistem"</string>
-    <string name="system_update_settings_list_item_summary" msgid="3853057315907710747"></string>
     <string name="firmware_version" msgid="4801135784886859972">"Versi Android"</string>
     <string name="model_number" msgid="3765737700545384794">"Nombor model"</string>
     <string name="fcc_equipment_id" msgid="149114368246356737">"ID Peralatan"</string>
@@ -1317,8 +1315,6 @@
     <string name="enable_adb" msgid="7982306934419797485">"Penyahpepijatan USB"</string>
     <string name="enable_adb_summary" msgid="4881186971746056635">"Mod nyahpepijat apabila USB disambungkan"</string>
     <string name="clear_adb_keys" msgid="4038889221503122743">"Batalkan kebenaran penyahpepijatan USB"</string>
-    <string name="bugreport_in_power" msgid="4548816486587403971">"Laporan pepijat menu kuasa"</string>
-    <string name="bugreport_in_power_summary" msgid="5764234382355067053">"Masukkan pilihan dalam menu kuasa untuk mengambil laporan pepijat"</string>
     <string name="keep_screen_on" msgid="1146389631208760344">"Tetap berjaga"</string>
     <string name="keep_screen_on_summary" msgid="2173114350754293009">"Skrin tidak sekali-kali akan tidur semasa pengecasan"</string>
     <string name="bt_hci_snoop_log" msgid="3340699311158865670">"Dayakan log intip HCI Bluetooth"</string>
@@ -1898,7 +1894,6 @@
     <string name="backup_pw_set_button_text" msgid="2387480910044648795">"Tetapkan kata laluan sandaran"</string>
     <string name="backup_pw_cancel_button_text" msgid="8845630125391744615">"Batal"</string>
     <string name="percentage" msgid="5866131581207788624">"<xliff:g id="NUMBER">%d</xliff:g>%%"</string>
-    <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"Kemas kini sistem tmbahan"</string>
     <string name="selinux_status_disabled" msgid="924551035552323327">"Dilumpuhkan"</string>
     <string name="selinux_status_permissive" msgid="6004965534713398778">"Permisif"</string>
     <string name="selinux_status_enforcing" msgid="2252703756208463329">"Menguatkuasakan"</string>
