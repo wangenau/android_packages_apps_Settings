@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">Nota</string>
   <string name="dynamic_tiles_note_summary">Los controles dinámicos namái van apaecer por eventu del sistema</string>
   <string name="title_dynamic_alarm">Alarma</string>
-  <string name="title_dynamic_bugreport">Informe de fallu</string>
   <string name="title_dynamic_dock_battery">Batería de la base</string>
   <string name="title_dynamic_equalizer">Ecualizador</string>
   <string name="title_dynamic_ime">Seleutor de métodu d\'entrada</string>
@@ -436,9 +435,7 @@ Tocando de mou prollongáu cada llinia, van amosase opciones adicionales. Seleic
   <string name="pref_force_highend_gfx_summary">Habilitar los efeutos visuales d\'alta resolución, como la barra d\'estáu/navegación tresparente (necesita reaniciar)</string>
   <string name="kill_app_longpress_back">Botón Volver</string>
   <string name="kill_app_longpress_back_summary">Matar aplicaciones per aciu de la pulsación prollongada del botón Volver</string>
-  <string name="changelog_error">Imposible cargar el rexistru de cambeos</string>
   <string name="contributor_cloud_title">Collaboradores</string>
-  <string name="cmupdate_settings_title">Anovamientos LineageOS</string>
   <string name="allow_mock_sms">Permitir SMS simulaos</string>
   <string name="privacy_settings_cyanogenmod_title">Privacidá</string>
   <string name="privacy_guard_switch_label">Habilitar privacidá</string>

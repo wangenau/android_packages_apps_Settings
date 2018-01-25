@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">注意</string>
   <string name="dynamic_tiles_note_summary">自動タイルはシステムイベントによってトリガーされた場合にのみ表示されます</string>
   <string name="title_dynamic_alarm">アラーム</string>
-  <string name="title_dynamic_bugreport">バグレポート</string>
   <string name="title_dynamic_dock_battery">ホルダーの電池</string>
   <string name="title_dynamic_equalizer">イコライザー</string>
   <string name="title_dynamic_ime">入力方法の選択</string>
@@ -444,9 +443,7 @@
   <string name="pref_force_highend_gfx_summary">透過のステータスバーやナビゲーションバーのようなハイエンドな視覚効果を有効にする（要再起動）</string>
   <string name="kill_app_longpress_back">戻るボタンでアプリを終了</string>
   <string name="kill_app_longpress_back_summary">戻るボタンを長押ししてフォアグラウンドアプリを終了する</string>
-  <string name="changelog_error">更新履歴を読み込めませんでした</string>
   <string name="contributor_cloud_title">貢献者</string>
-  <string name="cmupdate_settings_title">LineageOSアップデート</string>
   <string name="allow_mock_sms">疑似SMSを許可</string>
   <string name="privacy_settings_cyanogenmod_title">プライバシー</string>
   <string name="privacy_guard_switch_label">プライバシーガードを有効化</string>

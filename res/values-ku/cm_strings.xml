@@ -277,7 +277,6 @@
   <string name="dynamic_tiles_note_title">تێبینی</string>
   <string name="dynamic_tiles_note_summary">تەنیا لە کاتیک ئەستووونە جوڵاوەکان دەربکەون لە لە ڕێگای ڕووداوێکی سیستەمییەوە داگیرسابێت</string>
   <string name="title_dynamic_alarm">کاژێری بیرخەرەوە</string>
-  <string name="title_dynamic_bugreport">ڕاپۆرتکردنی کەموکورتی بۆسیستەم</string>
   <string name="title_dynamic_dock_battery">دۆکی باتری</string>
   <string name="title_dynamic_equalizer">یه‌کسانکه‌ری ده‌نگ</string>
   <string name="title_dynamic_ime">تێكردن ڕێگەی هەڵبژاردە</string>
@@ -453,9 +452,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
   <string name="pref_force_highend_gfx_summary">لەکارخستنی کاریگەری باری گۆڕین /تولباری ناڤیگەیشن(دوبارەخستنەوەکار پێویستە)</string>
   <string name="kill_app_longpress_back">کوشتنی بەرنامە لە دوگمەی دواوە</string>
   <string name="kill_app_longpress_back_summary">کوشتنی پێشبنەما بەرنامە لەلایەن دەستنانی زۆر بە دوگمەی دواوە</string>
-  <string name="changelog_error">دابەزاندن لەکارانیە changelog</string>
   <string name="contributor_cloud_title">به‌شداره‌کان</string>
-  <string name="cmupdate_settings_title">نوێکردنه‌وه‌ی وەشانەکە</string>
   <string name="allow_mock_sms">ڕێگەدان mock SMS</string>
   <string name="privacy_settings_cyanogenmod_title">تایبەتی</string>
   <string name="privacy_guard_switch_label">چالاکردنی بەرگری تایبەتی</string>

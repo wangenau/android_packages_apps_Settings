@@ -1951,9 +1951,6 @@
     <!-- Advanced (used for diagnostics) device info activity title -->
     <string name="device_info_settings" product="default">Phone status</string>
 
-    <!-- About phone screen, list item title.  Takes the user to the screen for seeing and installing system updates. -->
-    <!-- About phone screen, list item summary.  Takes the user to the screen for seeing and installing system updates. -->
-
     <!-- About phone screen, status item label -->
     <string name="firmware_version">Android version</string>
     <!-- About phone screen, status item label  [CHAR LIMIT=60] -->
@@ -3146,8 +3143,6 @@
     <string name="enable_adb_summary">Debug mode when USB is connected</string>
     <!-- Setting title to revoke secure USB debugging authorizations -->
     <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
-    <!-- [CHAR LIMIT=NONE] Setting checkbox title for Whether to include bug report item in power menu. -->
-    <!-- [CHAR LIMIT=NONE] Setting checkbox summary for Whether to include bug report item in power -->
     <!-- Setting Checkbox title whether to keep the screen on when plugged in to a power source -->
     <string name="keep_screen_on">Stay awake</string>
     <!-- setting Checkbox summary whether to keep the screen on when plugged in  -->
@@ -4653,8 +4648,6 @@
     <!-- Representation of a numerical percentage. [CHAR LIMIT=8] -->
     <string name="percentage"><xliff:g id="number" example="30">%d</xliff:g>%%</string>
 
-    <!-- A menu item in "About phone" that allows the user to update the phone with settings
-    from their cell phone carrier. The use of the string is similar to the string
     <!-- These statuses are displayed when a device was built with SE Android supoprt.
     These are displayed by the settings app in the about section. -->
     <string name="selinux_status_disabled">Disabled</string>

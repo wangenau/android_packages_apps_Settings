@@ -276,7 +276,6 @@
   <string name="dynamic_tiles_note_title">Hinweis</string>
   <string name="dynamic_tiles_note_summary">Dynamische Kacheln werden nur angezeigt, wenn sie durch ein Systemereignis ausgelöst werden</string>
   <string name="title_dynamic_alarm">Wecker</string>
-  <string name="title_dynamic_bugreport">Fehlerprotokollierung</string>
   <string name="title_dynamic_dock_battery">Dock-Akku</string>
   <string name="title_dynamic_equalizer">Equalizer</string>
   <string name="title_dynamic_ime">Eingabemethoden-Auswahlwerkzeug</string>
@@ -451,9 +450,7 @@ Mittels \"Entfernen\" kann die ausgewählte Stützstelle aus dem Helligkeitsverl
   <string name="pref_force_highend_gfx_summary">Verbesserte Transparenz- und Animationseffekte wie z.B. Status- und Navigationsleistentransparenz verwenden (Neustart erforderlich)</string>
   <string name="kill_app_longpress_back">App beenden</string>
   <string name="kill_app_longpress_back_summary">Gedrückt halten der Zurück-Taste beendet die Anwendung im Vordergrund</string>
-  <string name="changelog_error">Changelog kann nicht geladen werden</string>
   <string name="contributor_cloud_title">Mitwirkende</string>
-  <string name="cmupdate_settings_title">LineageOS-Updates</string>
   <string name="allow_mock_sms">Simulierte SMS zulassen</string>
   <string name="privacy_settings_cyanogenmod_title">Datenschutz</string>
   <string name="privacy_guard_switch_label">Datenschutz aktivieren</string>

@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">Примітка</string>
   <string name="dynamic_tiles_note_summary">Динамічні плитки видно, тільки якщо вони викликані системною подією</string>
   <string name="title_dynamic_alarm">Будильник</string>
-  <string name="title_dynamic_bugreport">Звіт про помилку</string>
   <string name="title_dynamic_dock_battery">Док батареї</string>
   <string name="title_dynamic_equalizer">Еквалайзер</string>
   <string name="title_dynamic_ime">Вибір способу введення</string>
@@ -435,9 +434,7 @@
   <string name="pref_force_highend_gfx_summary">Увімкнути високоякісні візуальні ефекти такі як прозорість рядка стану, панелі навігації (необхідне перезавантаження)</string>
   <string name="kill_app_longpress_back">Закрити програму</string>
   <string name="kill_app_longpress_back_summary">Довгий натиск на кнопку «Назад» закриє запущену програму</string>
-  <string name="changelog_error">Не можу завантажити журнал змін</string>
   <string name="contributor_cloud_title">Учасники</string>
-  <string name="cmupdate_settings_title">Оновлення LineageOS</string>
   <string name="allow_mock_sms">Фіктивні SMS</string>
   <string name="privacy_settings_cyanogenmod_title">Приватність</string>
   <string name="privacy_guard_switch_label">Увімкнути «Сторожа Приватності»</string>

@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">Nota</string>
   <string name="dynamic_tiles_note_summary">I tile dinamici appariranno solo se un evento di sistema li attiva</string>
   <string name="title_dynamic_alarm">Sveglia</string>
-  <string name="title_dynamic_bugreport">Segnalazione bug</string>
   <string name="title_dynamic_dock_battery">Batteria dock</string>
   <string name="title_dynamic_equalizer">Equalizzatore</string>
   <string name="title_dynamic_ime">Selettore metodo immissione</string>
@@ -447,9 +446,7 @@ inserire punti di controllo aggiuntivi. \'Rimuovi\' elimina la riga selezionata.
   <string name="pref_force_highend_gfx_summary">Attiva gli effetti grafici di alta qualità come la trasparenza della barra di stato/navigazione (richiede il riavvio) </string>
   <string name="kill_app_longpress_back">Termina app con tasto</string>
   <string name="kill_app_longpress_back_summary">Termina l\'app in primo piano tenendo premuto il tasto indietro</string>
-  <string name="changelog_error">Impossibile caricare il changelog</string>
   <string name="contributor_cloud_title">Collaboratori</string>
-  <string name="cmupdate_settings_title">Aggiornamento LineageOS</string>
   <string name="allow_mock_sms">Consenti SMS finti</string>
   <string name="privacy_settings_cyanogenmod_title">Privacy</string>
   <string name="privacy_guard_switch_label">Attiva Privacy Guard</string>

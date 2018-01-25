@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">Megjegyzés</string>
   <string name="dynamic_tiles_note_summary">Dinamikus csempék csak akkor jelennek meg, ha egy rendszeresemény azt kiváltja</string>
   <string name="title_dynamic_alarm">Ébresztés</string>
-  <string name="title_dynamic_bugreport">Hibajelentés</string>
   <string name="title_dynamic_dock_battery">Dokkoló akkumulátora</string>
   <string name="title_dynamic_equalizer">Hangszínszabályzó</string>
   <string name="title_dynamic_ime">Beviteli mód választó</string>
@@ -446,9 +445,7 @@ Az \"Eltávolítás\" törli a kiválasztott sort.</string>
   <string name="pref_force_highend_gfx_summary">Magas minőségű grafikai effektek engedélyezése, mint az átlátszó állapot/navigációs sáv (újraindítás szükséges)</string>
   <string name="kill_app_longpress_back">Alkalmazás bezárás</string>
   <string name="kill_app_longpress_back_summary">Alkalmazás bezárása nyomva tartott vissza gombbal</string>
-  <string name="changelog_error">Nem lehet betölteni a változásokat</string>
   <string name="contributor_cloud_title">Közreműködők</string>
-  <string name="cmupdate_settings_title">LineageOS frissítések</string>
   <string name="allow_mock_sms">SMS utánzatok engedélyezése</string>
   <string name="privacy_settings_cyanogenmod_title">Adatvédelem</string>
   <string name="privacy_guard_switch_label">Adatvédelem engedélyezése</string>

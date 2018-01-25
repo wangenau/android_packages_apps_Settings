@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">Poznámka</string>
   <string name="dynamic_tiles_note_summary">Dynamické dlaždice sa zobrazia len pri ich spustení systémovou udalosťou</string>
   <string name="title_dynamic_alarm">Budík</string>
-  <string name="title_dynamic_bugreport">Nahlásiť chybu</string>
   <string name="title_dynamic_dock_battery">Batéria doku</string>
   <string name="title_dynamic_equalizer">Ekvalizér</string>
   <string name="title_dynamic_ime">Výber metódy vstupu</string>
@@ -435,9 +434,7 @@ Každý riadok v zozname jasu zodpovedá jednému <i>riadiacemu bodu</i> krivky 
   <string name="pref_force_highend_gfx_summary">Povoliť vizuálne efekty ako napríklad priehľadný stavový a priehľadný navigačný panel (vyžaduje reštart)</string>
   <string name="kill_app_longpress_back">Ukončiť aplikáciu tlačidlom Späť</string>
   <string name="kill_app_longpress_back_summary">Dlhé stlačenie tlačidla Späť ukončí aplikáciu na popredí</string>
-  <string name="changelog_error">Nemožno načítať zoznam zmien</string>
   <string name="contributor_cloud_title">Prispievatelia</string>
-  <string name="cmupdate_settings_title">Aktualizácie LineageOS</string>
   <string name="allow_mock_sms">Povoliť falošné SMS</string>
   <string name="privacy_settings_cyanogenmod_title">Súkromie</string>
   <string name="privacy_guard_switch_label">Povoliť Ochranu súkromia</string>

@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">සටහන</string>
   <string name="dynamic_tiles_note_summary">පද්ධති සිදුවීමක් මගින් ක්‍රියාරම්භ වුවහොත් පමණක් ක්‍රියාශීලී උළු දෘශ්‍යමාන වනු ඇත</string>
   <string name="title_dynamic_alarm">ඇඟවීම් ඔරලෝසුව</string>
-  <string name="title_dynamic_bugreport">දෝෂ වාර්තාව</string>
   <string name="title_dynamic_dock_battery">බැටරිය ඈඳන්න</string>
   <string name="title_dynamic_equalizer">සමකරකය</string>
   <string name="title_dynamic_ime">ආදාන ක්‍රමය තෝරනය</string>
@@ -434,9 +433,7 @@
   <string name="pref_force_highend_gfx_summary">පාරදෘශ්‍ය තත්ව/සංචාලන තීරු වැනි උසස් නිමාවැති දෘශ්‍ය ආටෝප සබල කරන්න (නැවත පණගැන්වීමට අවශ්‍යයි)</string>
   <string name="kill_app_longpress_back">ආපසු බොත්තම යෙදුම නසයි</string>
   <string name="kill_app_longpress_back_summary">ආපසු බොත්තම දිගු එබීම මගින් පෙරබිම් යෙදුම නසා දමන්න</string>
-  <string name="changelog_error">වෙනස්කම් ලොගය පූරණය කළනොහැක</string>
   <string name="contributor_cloud_title">ආධාරකරුවන්</string>
-  <string name="cmupdate_settings_title">LineageOS යාවත්කාලීනයන්</string>
   <string name="allow_mock_sms">විහිළු කෙටි පනිවිඩ අනුමත කරන්න</string>
   <string name="privacy_settings_cyanogenmod_title">පෞද්ගලිකත්වය</string>
   <string name="privacy_guard_switch_label">පෞද්ගලිකත්වයේ මුරකරු සබල කරන්න</string>

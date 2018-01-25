@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">NB:</string>
   <string name="dynamic_tiles_note_summary">Dynamiske fliser vises kun, hvis udløst af en systemhændelse</string>
   <string name="title_dynamic_alarm">Vækkeur</string>
-  <string name="title_dynamic_bugreport">Fejlrapport</string>
   <string name="title_dynamic_dock_battery">Dock-batteri</string>
   <string name="title_dynamic_equalizer">Equalizer</string>
   <string name="title_dynamic_ime">Vælger for inputmetode</string>
@@ -435,9 +434,7 @@ Yderligere indstillinger er tilgængelige ved at trykke længe på en linje. Ved
   <string name="pref_force_highend_gfx_summary">Aktiverer nogle rigtig flotte visuelle effekter, såsom transparent status-/navigationslinje (kræver genstart)</string>
   <string name="kill_app_longpress_back">Luk app på knappen Tilbage</string>
   <string name="kill_app_longpress_back_summary">Luk kørende app ved langt tryk på knappen Tilbage</string>
-  <string name="changelog_error">Kunne ikke indlæse ændringsloggen</string>
   <string name="contributor_cloud_title">Bidragydere</string>
-  <string name="cmupdate_settings_title">LineageOS-opdateringer</string>
   <string name="allow_mock_sms">Tillad simuleret SMS</string>
   <string name="privacy_settings_cyanogenmod_title">Privatliv</string>
   <string name="privacy_guard_switch_label">Aktivér Privatlivsvagt</string>

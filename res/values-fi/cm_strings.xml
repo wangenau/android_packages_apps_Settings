@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">Huomautus</string>
   <string name="dynamic_tiles_note_summary">Dynaamiset tiilet näkyvät vain järjestelmän käyttäessä niitä</string>
   <string name="title_dynamic_alarm">Herätyskello</string>
-  <string name="title_dynamic_bugreport">Virheraportti</string>
   <string name="title_dynamic_dock_battery">Telakan akku</string>
   <string name="title_dynamic_equalizer">Taajuuskorjain</string>
   <string name="title_dynamic_ime">Syöttötavan valitsin</string>
@@ -436,9 +435,7 @@ Lisää asetuksia on saaavilla painamalla riviä pitkään. Valitsemalla \'Muokk
   <string name="pref_force_highend_gfx_summary">Ottaa käyttöön parhaat visuaaliset tehosteet kuten läpinäkyvät tila- ja navigointipalkit (uudelleenkäynnistys tarvitaan)</string>
   <string name="kill_app_longpress_back">Tapa sovellus</string>
   <string name="kill_app_longpress_back_summary">Tappaa etualalla olevan sovelluksen kun takaisin-painiketta painetaan pitkään</string>
-  <string name="changelog_error">Muutoslokin lataus ei onnistu</string>
   <string name="contributor_cloud_title">Kehittäjät ja avustajat</string>
-  <string name="cmupdate_settings_title">LineageOS-päivitykset</string>
   <string name="allow_mock_sms">Salli valetekstiviestit</string>
   <string name="privacy_settings_cyanogenmod_title">Yksityisyys</string>
   <string name="privacy_guard_switch_label">Ota yksityisyyden suojaus käyttöön</string>

@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">NB:</string>
   <string name="dynamic_tiles_note_summary">Dynamisk paneler vises bare hvis utløst av en systemhendelse</string>
   <string name="title_dynamic_alarm">Vekkerklokke</string>
-  <string name="title_dynamic_bugreport">Feilrapport</string>
   <string name="title_dynamic_dock_battery">Forankre batteri</string>
   <string name="title_dynamic_equalizer">Equalizer</string>
   <string name="title_dynamic_ime">Inndatametode velger</string>
@@ -427,9 +426,7 @@
   <string name="pref_force_highend_gfx_summary">Muliggjør avanserte visuelle effekter som gjennomsiktig status/navigasjonsbar (krever omstart)</string>
   <string name="kill_app_longpress_back">Stopp app-tilbake-knappen</string>
   <string name="kill_app_longpress_back_summary">Stopp aktivt program ved å trykke lenge på tilbake-knappen</string>
-  <string name="changelog_error">Kunne ikke hente endringsloggen</string>
   <string name="contributor_cloud_title">Bidragsytere</string>
-  <string name="cmupdate_settings_title">LineageOS oppdateringer</string>
   <string name="allow_mock_sms">Tillat simulert SMS</string>
   <string name="privacy_settings_cyanogenmod_title">Personvern</string>
   <string name="privacy_guard_switch_label">Aktiver Personvernvakt</string>

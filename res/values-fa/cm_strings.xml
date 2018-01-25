@@ -123,7 +123,6 @@
   <string name="io_sched_title">زمان‌بند ورود/خروج</string>
   <string name="perf_profile_title">پروفایل</string>
   <string name="pref_force_highend_gfx_title">تحمیل گرافیک بالا</string>
-  <string name="changelog_error">ناتوان در بارگزاری لیست تغییرات</string>
   <string name="privacy_settings_cyanogenmod_title">حریم خصوصی</string>
   <string name="privacy_guard_manager_title">محافظ حریم خصوصی</string>
   <string name="privacy_guard_reset_text">مجوزها مجددا تنظیم شوند؟</string>

@@ -274,7 +274,6 @@
   <string name="dynamic_tiles_note_title">নোট</string>
   <string name="dynamic_tiles_note_summary">প্রগতিশীল টালি শুধুমাত্র প্রদর্শিত হবে যদি একটি সিস্টেম ইভেন্টের সূত্রপাত হয়</string>
   <string name="title_dynamic_alarm">এলার্ম ঘড়ি</string>
-  <string name="title_dynamic_bugreport">বাগ প্রতিবেদন</string>
   <string name="title_dynamic_dock_battery">ডক ব্যাটারি</string>
   <string name="title_dynamic_equalizer">ইকুয়ালাইজার</string>
   <string name="title_dynamic_ime">ইনপুট পদ্ধতি নির্বাচক</string>
@@ -439,9 +438,7 @@
   <string name="pref_force_highend_gfx_summary">উচ্চ শ্রেণীর ভিজুয়াল এফেক্টস এর ফলে স্বচ্ছ অবস্থা/ন্যাভিগেশন বার সক্রিয় হবে (পুনরায় চালু করা প্রয়োজন)</string>
   <string name="kill_app_longpress_back">ব্যাক বোতাম দ্বারা অ্যাপ নিস্ক্রিয় করুন</string>
   <string name="kill_app_longpress_back_summary">ব্যাক বোতাম দীর্ঘ সময় চেপে ধরে অগ্রভাগের অ্যাপ নিস্ক্রিয় করুন</string>
-  <string name="changelog_error">পরিবর্তন লোড করতে অক্ষম</string>
   <string name="contributor_cloud_title">অবদানকারী</string>
-  <string name="cmupdate_settings_title">সায়ানোজেনমড আধুনিকীকরণ</string>
   <string name="allow_mock_sms">এসএমএস মক অনুমতি দিন</string>
   <string name="privacy_settings_cyanogenmod_title">গোপনীয়তা</string>
   <string name="privacy_guard_switch_label">গোপনীয়তা গার্ড সক্রিয় করুন</string>

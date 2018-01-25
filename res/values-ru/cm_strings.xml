@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">Примечание</string>
   <string name="dynamic_tiles_note_summary">Динамические плитки видны, только если они вызваны системным событием</string>
   <string name="title_dynamic_alarm">Будильник</string>
-  <string name="title_dynamic_bugreport">Отчёт об ошибке</string>
   <string name="title_dynamic_dock_battery">Батарея док-станции</string>
   <string name="title_dynamic_equalizer">Эквалайзер</string>
   <string name="title_dynamic_ime">Выбор способа ввода</string>
@@ -436,9 +435,7 @@
   <string name="pref_force_highend_gfx_summary">Использовать эффекты, отключённые для устройств с низкой производительностью, например, прозрачность строки состояния и панели навигации (требуется перезагрузка)</string>
   <string name="kill_app_longpress_back">Закрытие приложения</string>
   <string name="kill_app_longpress_back_summary">Завершать работу текущего приложения удерживанием кнопки «Назад»</string>
-  <string name="changelog_error">Ошибка загрузки списка изменений</string>
   <string name="contributor_cloud_title">Имена разработчиков</string>
-  <string name="cmupdate_settings_title">Обновления системы</string>
   <string name="allow_mock_sms">Фиктивные SMS</string>
   <string name="privacy_settings_cyanogenmod_title">Конфиденциальность</string>
   <string name="privacy_guard_switch_label">Включить защищённый режим</string>

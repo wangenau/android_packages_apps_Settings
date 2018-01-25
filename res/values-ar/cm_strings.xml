@@ -253,7 +253,6 @@
   <string name="title_dynamic_tiles">البلاط ديناميكية</string>
   <string name="dynamic_tiles_note_title">ملاحظة</string>
   <string name="title_dynamic_alarm">المنبه</string>
-  <string name="title_dynamic_bugreport">تقرير الأخطاء</string>
   <string name="title_dynamic_dock_battery">حوض البطارية</string>
   <string name="title_dynamic_equalizer">التعادل</string>
   <string name="title_dynamic_wifi">Cast screen</string>
@@ -394,9 +393,7 @@
   <string name="pref_force_highend_gfx_summary">تمكن التأثيرات البصرية الراقية مثل شريط حالة شفافة والملاحة (يتطلب إعادة التشغيل)</string>
   <string name="kill_app_longpress_back">قتل التطبيق بزر الخلف</string>
   <string name="kill_app_longpress_back_summary">قتل التطبيق بالضغط الطويل على زر الخلف</string>
-  <string name="changelog_error">غير قادر على تحميل التغيير</string>
   <string name="contributor_cloud_title">المساهمون</string>
-  <string name="cmupdate_settings_title">تحديثات LineageOS</string>
   <string name="allow_mock_sms">السماح بالرسائل القصيرة صورية</string>
   <string name="privacy_settings_cyanogenmod_title">الخصوصية</string>
   <string name="privacy_guard_switch_label">تمكن حارس الخصوصية</string>

@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">Oharra</string>
   <string name="dynamic_tiles_note_summary">Lauza dinamikoak sistemaren gertakari batek eraginda agertuko dira soilik</string>
   <string name="title_dynamic_alarm">Alarma</string>
-  <string name="title_dynamic_bugreport">Errore-txostena</string>
   <string name="title_dynamic_dock_battery">Oinarriaren bateria</string>
   <string name="title_dynamic_equalizer">Ekualizadorea</string>
   <string name="title_dynamic_ime">Sarrera metodo hautatzailea</string>
@@ -436,9 +435,7 @@ Informazio hau gailuaren abio bakoitzean bidaltzen da.\n\nBidalitako informazioa
   <string name="pref_force_highend_gfx_summary">Kalitate altuko efektu bisualak gaitzen ditu, egoera edo nabigazio-barren gardentasuna kasu (berrabiarazi behar da)</string>
   <string name="kill_app_longpress_back">Itzuli botoia</string>
   <string name="kill_app_longpress_back_summary">Itxi aurrealdeko aplikazioa atzera botoia luze sakatuz</string>
-  <string name="changelog_error">Ezin izan da aldaketa-egunkaria kargatu</string>
   <string name="contributor_cloud_title">Laguntzaileak</string>
-  <string name="cmupdate_settings_title">LineageOS eguneraketak</string>
   <string name="allow_mock_sms">Itxurazko SMSak baimendu</string>
   <string name="privacy_settings_cyanogenmod_title">Pribatutasuna</string>
   <string name="privacy_guard_switch_label">Gaitu Privacy Guard</string>

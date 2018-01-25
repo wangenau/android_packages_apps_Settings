@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">הערה</string>
   <string name="dynamic_tiles_note_summary">אריחים דינמיים יופיעו אך ורק אם הופעלו על-ידי פעולת מערכת</string>
   <string name="title_dynamic_alarm">שעון מעורר</string>
-  <string name="title_dynamic_bugreport">דיווח תקלה</string>
   <string name="title_dynamic_dock_battery">עיגון סוללה</string>
   <string name="title_dynamic_equalizer">אקולייזר</string>
   <string name="title_dynamic_ime">בורר שיטת קלט</string>
@@ -449,9 +448,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
   <string name="pref_force_highend_gfx_summary">אפשר אפקטים ויזואליים מתקדמים כמו ברים שקופים (דורש אתחול)</string>
   <string name="kill_app_longpress_back">הרוג יישום עם לחצן חזור</string>
   <string name="kill_app_longpress_back_summary">הרוג יישום נראה על ידי לחיצה ארוכה על כפתור חזור</string>
-  <string name="changelog_error">אין אפשרות לטעון את רשימת השינויים</string>
   <string name="contributor_cloud_title">תורמים</string>
-  <string name="cmupdate_settings_title">עדכוני LineageOS</string>
   <string name="allow_mock_sms">אפשר SMS מזויף</string>
   <string name="privacy_settings_cyanogenmod_title">פרטיות</string>
   <string name="privacy_guard_switch_label">אפשר שומר פרטיות</string>

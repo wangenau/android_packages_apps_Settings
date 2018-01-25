@@ -59,7 +59,6 @@ public class DeviceInfoSettings extends RestrictedSettingsFragment {
 
     private static final String KEY_CONTAINER = "container";
     private static final String KEY_TEAM = "team";
-    private static final String KEY_CHANGELOG = "changelog";
     private static final String KEY_CONTRIBUTORS = "contributors";
     private static final String KEY_REGULATORY_INFO = "regulatory_info";
     private static final String KEY_TERMS = "terms";
@@ -82,7 +81,6 @@ public class DeviceInfoSettings extends RestrictedSettingsFragment {
     private static final String KEY_MOD_BUILD_DATE = "build_date";
     private static final String KEY_DEVICE_CPU = "device_cpu";
     private static final String KEY_DEVICE_MEMORY = "device_memory";
-    private static final String KEY_CM_UPDATES = "cm_updates";
     private static final String KEY_STATUS = "status_info";
 
     static final int TAPS_TO_BE_A_DEVELOPER = 7;
@@ -152,13 +150,6 @@ public class DeviceInfoSettings extends RestrictedSettingsFragment {
         final String cpuInfo = getCPUInfo();
         String memInfo = getMemInfo();
 
-        // Only the owner should see the Updater settings, if it exists
-        if (UserHandle.myUserId() == UserHandle.USER_OWNER) {
-            removePreferenceIfPackageNotInstalled(findPreference(KEY_CM_UPDATES));
-        } else {
-            getPreferenceScreen().removePreference(findPreference(KEY_CM_UPDATES));
-        }
-
         if (cpuInfo != null) {
             setStringSummary(KEY_DEVICE_CPU, cpuInfo);
         } else {
@@ -212,9 +203,6 @@ public class DeviceInfoSettings extends RestrictedSettingsFragment {
         } else {
             // Remove for secondary users
             removePreference(KEY_SYSTEM_UPDATE_SETTINGS);
-        }
-        if ("user".equals(Build.TYPE)) {
-            removePreference(KEY_CHANGELOG);
         }
 
         Utils.updatePreferenceToSpecificActivityOrRemove(act, parentPreference, KEY_CONTRIBUTORS,

@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">Note</string>
   <string name="dynamic_tiles_note_summary">Dynamesch Kachele gi just ugewise, wa se duerch e Systemevenement ausgeléist ginn</string>
   <string name="title_dynamic_alarm">Wecker</string>
-  <string name="title_dynamic_bugreport">Feelerbericht</string>
   <string name="title_dynamic_dock_battery">Dock-Akku</string>
   <string name="title_dynamic_equalizer">Equalizer</string>
   <string name="title_dynamic_ime">Auswiel vun der Method fir anzeginn</string>
@@ -435,9 +434,7 @@ Duerch laangt Drécken op d\'Zeile sti weider Optiounen zur Verfügung. Duerch D
   <string name="pref_force_highend_gfx_summary">Aktivéiert héich-opléisend visuell Effekter, wéi z. B. transparent Status-  an Navigatiounsläischten (Neistart néideg)</string>
   <string name="kill_app_longpress_back">Appe mam \"Zréck\"-Knäppchen zoumaachen</string>
   <string name="kill_app_longpress_back_summary">App am Virgrond zoumaache wann den \"Zréck\"-Knäppche laang gedréckt gëtt</string>
-  <string name="changelog_error">D\'Ännerungshiwäiser konnten net geluede ginn</string>
   <string name="contributor_cloud_title">Mataarbechter</string>
-  <string name="cmupdate_settings_title">LineageOS-Aktualiséierungen</string>
   <string name="allow_mock_sms">Simuléiert SMSen zouloossen</string>
   <string name="privacy_settings_cyanogenmod_title">Privatsphär</string>
   <string name="privacy_guard_switch_label">Privatsphärschutz aktivéieren</string>

@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">Nota</string>
   <string name="dynamic_tiles_note_summary">Los controles dinámicos solamente aparecerán por un evento del sistema</string>
   <string name="title_dynamic_alarm">Alarma</string>
-  <string name="title_dynamic_bugreport">Informe de error</string>
   <string name="title_dynamic_dock_battery">Batería de la base</string>
   <string name="title_dynamic_equalizer">Ecualizador</string>
   <string name="title_dynamic_ime">Selector de método de entrada</string>
@@ -437,9 +436,7 @@ Tocando de forma prolongada cada línea se mostrarán opciones adicionales. Sele
   <string name="pref_force_highend_gfx_summary">Habilitar efectos visuales de alta calidad, como transparencias en la barra de estado y de navegación (requiere reiniciar)</string>
   <string name="kill_app_longpress_back">Botón Volver</string>
   <string name="kill_app_longpress_back_summary">Cerrar aplicaciones mediante la pulsación prolongada del botón Volver</string>
-  <string name="changelog_error">Imposible cargar el registro de cambios</string>
   <string name="contributor_cloud_title">Colaboradores</string>
-  <string name="cmupdate_settings_title">Actualizaciones LineageOS</string>
   <string name="allow_mock_sms">Permitir SMS simulados</string>
   <string name="privacy_settings_cyanogenmod_title">Privacidad</string>
   <string name="privacy_guard_switch_label">Habilitar privacidad</string>

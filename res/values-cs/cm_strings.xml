@@ -275,7 +275,6 @@
   <string name="dynamic_tiles_note_title">Poznámka</string>
   <string name="dynamic_tiles_note_summary">Dynamické dlaždice jsou zobrazeny při určitých systémových událostech</string>
   <string name="title_dynamic_alarm">Budík</string>
-  <string name="title_dynamic_bugreport">Ohlášení chyby</string>
   <string name="title_dynamic_dock_battery">Baterie doku</string>
   <string name="title_dynamic_equalizer">Ekvalizér</string>
   <string name="title_dynamic_ime">Výběr vstupní metody</string>
@@ -444,9 +443,7 @@ jednotlivě měnit a tím zvětšit počet řídících bodů. „Odstranit“ s
   <string name="pref_force_highend_gfx_summary">Povolit nejkvalitnější vizuální efekty - například průhlednou stavovou/navigační lištu (vyžaduje pokročilý grafický čip a také restart)</string>
   <string name="kill_app_longpress_back">Vynucené ukončení aplikace</string>
   <string name="kill_app_longpress_back_summary">Dlouhým stiskem tlačítka zpět se provede ukončení aplikace na popředí</string>
-  <string name="changelog_error">Chyba při načítání seznamu změn</string>
   <string name="contributor_cloud_title">Přispěvatelé</string>
-  <string name="cmupdate_settings_title">Aktualizace LineageOS</string>
   <string name="allow_mock_sms">Povolit falešné SMS</string>
   <string name="privacy_settings_cyanogenmod_title">Soukromí</string>
   <string name="privacy_guard_switch_label">Povolit Ochranu soukromí</string>
