@@ -95,7 +95,7 @@ public class ChooseLockGeneric extends PreferenceActivity {
 
             mDPM = (DevicePolicyManager) getSystemService(Context.DEVICE_POLICY_SERVICE);
             mKeyStore = KeyStore.getInstance();
-            mChooseLockSettingsHelper = new ChooseLockSettingsHelper(this.getActivity());
+            mChooseLockSettingsHelper = new ChooseLockSettingsHelper(this.getActivity(), this);
 
             // Defaults to needing to confirm credentials
             final boolean confirmCredentials = getActivity().getIntent()

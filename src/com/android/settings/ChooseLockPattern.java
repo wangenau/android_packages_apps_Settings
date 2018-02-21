@@ -304,7 +304,7 @@ public class ChooseLockPattern extends PreferenceActivity {
         @Override
         public void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
-            mChooseLockSettingsHelper = new ChooseLockSettingsHelper(getActivity());
+            mChooseLockSettingsHelper = new ChooseLockSettingsHelper(getActivity(), this);
             if (!(getActivity() instanceof ChooseLockPattern)) {
                 throw new SecurityException("Fragment contained in wrong activity");
             }
