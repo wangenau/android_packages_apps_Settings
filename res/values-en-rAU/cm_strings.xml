@@ -450,7 +450,6 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
   <string name="pref_force_highend_gfx_summary">Enables high-end visual effects such as transparent status/navigation bar (Requires reboot)</string>
   <string name="kill_app_longpress_back">Kill app back button</string>
   <string name="kill_app_longpress_back_summary">Kill the foreground app by long pressing the back button</string>
-  <string name="contributor_cloud_title">Contributors</string>
   <string name="allow_mock_sms">Allow mock SMS</string>
   <string name="privacy_settings_cyanogenmod_title">Privacy</string>
   <string name="privacy_guard_switch_label">Enable Privacy Guard</string>

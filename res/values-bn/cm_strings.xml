@@ -438,7 +438,6 @@
   <string name="pref_force_highend_gfx_summary">উচ্চ শ্রেণীর ভিজুয়াল এফেক্টস এর ফলে স্বচ্ছ অবস্থা/ন্যাভিগেশন বার সক্রিয় হবে (পুনরায় চালু করা প্রয়োজন)</string>
   <string name="kill_app_longpress_back">ব্যাক বোতাম দ্বারা অ্যাপ নিস্ক্রিয় করুন</string>
   <string name="kill_app_longpress_back_summary">ব্যাক বোতাম দীর্ঘ সময় চেপে ধরে অগ্রভাগের অ্যাপ নিস্ক্রিয় করুন</string>
-  <string name="contributor_cloud_title">অবদানকারী</string>
   <string name="allow_mock_sms">এসএমএস মক অনুমতি দিন</string>
   <string name="privacy_settings_cyanogenmod_title">গোপনীয়তা</string>
   <string name="privacy_guard_switch_label">গোপনীয়তা গার্ড সক্রিয় করুন</string>

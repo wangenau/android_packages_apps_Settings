@@ -434,7 +434,6 @@
   <string name="pref_force_highend_gfx_summary">启用高端视觉特效，如透明状态栏/导航栏 (需要重启)</string>
   <string name="kill_app_longpress_back">使用返回键强行关闭应用</string>
   <string name="kill_app_longpress_back_summary">长按返回键将终止前台应用</string>
-  <string name="contributor_cloud_title">贡献者</string>
   <string name="allow_mock_sms">允许模拟短信</string>
   <string name="privacy_settings_cyanogenmod_title">隐私</string>
   <string name="privacy_guard_switch_label">启用隐私防护</string>

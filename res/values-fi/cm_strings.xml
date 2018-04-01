@@ -435,7 +435,6 @@ Lisää asetuksia on saaavilla painamalla riviä pitkään. Valitsemalla \'Muokk
   <string name="pref_force_highend_gfx_summary">Ottaa käyttöön parhaat visuaaliset tehosteet kuten läpinäkyvät tila- ja navigointipalkit (uudelleenkäynnistys tarvitaan)</string>
   <string name="kill_app_longpress_back">Tapa sovellus</string>
   <string name="kill_app_longpress_back_summary">Tappaa etualalla olevan sovelluksen kun takaisin-painiketta painetaan pitkään</string>
-  <string name="contributor_cloud_title">Kehittäjät ja avustajat</string>
   <string name="allow_mock_sms">Salli valetekstiviestit</string>
   <string name="privacy_settings_cyanogenmod_title">Yksityisyys</string>
   <string name="privacy_guard_switch_label">Ota yksityisyyden suojaus käyttöön</string>

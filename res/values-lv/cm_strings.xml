@@ -435,7 +435,6 @@ Papildu opcijas ir pieejamas, ilgi pieskaroties rindai. Izvēloties \'Mainīt\',
   <string name="pref_force_highend_gfx_summary">Ieslēdz augstas kvalitātes vizuālus efektus, piemēram, statusa/navigācijas joslas caurspīdīgumu (nepieciešama atsāknēšana)</string>
   <string name="kill_app_longpress_back">Ilgi nospiesta Atpakaļ poga nokauj lietotni</string>
   <string name="kill_app_longpress_back_summary">Ilgi nospiesta Atpakaļ poga, nokauj priekšplāna lietotni</string>
-  <string name="contributor_cloud_title">Atbalstītāji</string>
   <string name="allow_mock_sms">Atļaut viltus īsziņas</string>
   <string name="privacy_settings_cyanogenmod_title">Privātums</string>
   <string name="privacy_guard_switch_label">Ieslēgt privātuma sargu</string>

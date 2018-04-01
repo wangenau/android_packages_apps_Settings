@@ -448,7 +448,6 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
   <string name="pref_force_highend_gfx_summary">Įjungia aukštos klasės vizualinius efektus, pavyzdžiui, permatomą būsenos / naršymo juostą (reikalinga perkrova)</string>
   <string name="kill_app_longpress_back">Uždaryti programą atgal mygtuku</string>
   <string name="kill_app_longpress_back_summary">Uždaryti programą ilgai spaudžiant mygtuką atgal</string>
-  <string name="contributor_cloud_title">Pagalbininkai</string>
   <string name="allow_mock_sms">Leisti netikrus SMS</string>
   <string name="privacy_settings_cyanogenmod_title">Privatumas</string>
   <string name="privacy_guard_switch_label">Įjungti privatumo saugą</string>

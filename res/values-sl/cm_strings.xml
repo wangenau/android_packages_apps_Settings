@@ -436,7 +436,6 @@ Dodatne možnosti so na voljo ob pritisku na vrstico. Z izbiro \"Uredi\" lahko p
   <string name="pref_force_highend_gfx_summary">Omogoča visokokakovostne vidne učinke, kot je prosojna vrstica stanja/obvestil (zahteva ponovni zagon)</string>
   <string name="kill_app_longpress_back">Gumb Nazaj uniči program</string>
   <string name="kill_app_longpress_back_summary">Uniči program v ospredju z dolgim pritiskom na gumb Nazaj</string>
-  <string name="contributor_cloud_title">Sodelavci</string>
   <string name="allow_mock_sms">Omogoči lažne SMS-e</string>
   <string name="privacy_settings_cyanogenmod_title">Zasebnost</string>
   <string name="privacy_guard_switch_label">Omogoči zaščito zasebnosti</string>

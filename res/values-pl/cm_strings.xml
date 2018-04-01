@@ -435,7 +435,6 @@ Dodatkowe opcje są dostępne przez długie przytrzymanie linii. Wybierając opc
   <string name="pref_force_highend_gfx_summary">Włącza efekty graficzne wymagające lepszego sprzętu, takie jak przeźroczysty pasek stanu/nawigacji (wymaga restartu)</string>
   <string name="kill_app_longpress_back">Zabijaj aplikacje przyciskiem wstecz</string>
   <string name="kill_app_longpress_back_summary">Przytrzymanie przycisku wstecz zabija aktywną aplikację</string>
-  <string name="contributor_cloud_title">Twórcy</string>
   <string name="allow_mock_sms">Pozorowane SMS-y</string>
   <string name="privacy_settings_cyanogenmod_title">Prywatność</string>
   <string name="privacy_guard_switch_label">Aktywuj ochronę prywatności</string>

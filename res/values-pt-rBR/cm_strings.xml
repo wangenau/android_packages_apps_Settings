@@ -434,7 +434,6 @@ Opções adicionais estão disponíveis ao pressionar continuamente uma linha. A
   <string name="pref_force_highend_gfx_summary">Ativa efeitos visuais de alta qualidade com barra de status/navegação transparente (requer reinicilização)</string>
   <string name="kill_app_longpress_back">Matar app com botão voltar</string>
   <string name="kill_app_longpress_back_summary">Ao manter pressionado o botão de voltar, o aplicativo em primeiro plano é fechado</string>
-  <string name="contributor_cloud_title">Colaboradores</string>
   <string name="allow_mock_sms">Permitir a simulação SMS</string>
   <string name="privacy_settings_cyanogenmod_title">Privacidade</string>
   <string name="privacy_guard_switch_label">Ativar Proteção à Privacidade</string>

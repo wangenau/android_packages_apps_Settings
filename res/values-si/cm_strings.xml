@@ -433,7 +433,6 @@
   <string name="pref_force_highend_gfx_summary">පාරදෘශ්‍ය තත්ව/සංචාලන තීරු වැනි උසස් නිමාවැති දෘශ්‍ය ආටෝප සබල කරන්න (නැවත පණගැන්වීමට අවශ්‍යයි)</string>
   <string name="kill_app_longpress_back">ආපසු බොත්තම යෙදුම නසයි</string>
   <string name="kill_app_longpress_back_summary">ආපසු බොත්තම දිගු එබීම මගින් පෙරබිම් යෙදුම නසා දමන්න</string>
-  <string name="contributor_cloud_title">ආධාරකරුවන්</string>
   <string name="allow_mock_sms">විහිළු කෙටි පනිවිඩ අනුමත කරන්න</string>
   <string name="privacy_settings_cyanogenmod_title">පෞද්ගලිකත්වය</string>
   <string name="privacy_guard_switch_label">පෞද්ගලිකත්වයේ මුරකරු සබල කරන්න</string>

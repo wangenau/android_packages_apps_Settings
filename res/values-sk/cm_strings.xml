@@ -434,7 +434,6 @@ Každý riadok v zozname jasu zodpovedá jednému <i>riadiacemu bodu</i> krivky 
   <string name="pref_force_highend_gfx_summary">Povoliť vizuálne efekty ako napríklad priehľadný stavový a priehľadný navigačný panel (vyžaduje reštart)</string>
   <string name="kill_app_longpress_back">Ukončiť aplikáciu tlačidlom Späť</string>
   <string name="kill_app_longpress_back_summary">Dlhé stlačenie tlačidla Späť ukončí aplikáciu na popredí</string>
-  <string name="contributor_cloud_title">Prispievatelia</string>
   <string name="allow_mock_sms">Povoliť falošné SMS</string>
   <string name="privacy_settings_cyanogenmod_title">Súkromie</string>
   <string name="privacy_guard_switch_label">Povoliť Ochranu súkromia</string>

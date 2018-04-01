@@ -448,7 +448,6 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
   <string name="pref_force_highend_gfx_summary">אפשר אפקטים ויזואליים מתקדמים כמו ברים שקופים (דורש אתחול)</string>
   <string name="kill_app_longpress_back">הרוג יישום עם לחצן חזור</string>
   <string name="kill_app_longpress_back_summary">הרוג יישום נראה על ידי לחיצה ארוכה על כפתור חזור</string>
-  <string name="contributor_cloud_title">תורמים</string>
   <string name="allow_mock_sms">אפשר SMS מזויף</string>
   <string name="privacy_settings_cyanogenmod_title">פרטיות</string>
   <string name="privacy_guard_switch_label">אפשר שומר פרטיות</string>

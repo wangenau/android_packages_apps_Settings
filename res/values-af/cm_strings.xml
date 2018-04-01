@@ -437,7 +437,6 @@ ten einde om bykomende kontrolepunte by te voeg . \'Verwyder\' verwyder die geko
   <string name="pref_force_highend_gfx_summary">Aktiveer hoë-einde visuele effekte soos deursigtige status / navigasie balk (vereis herlaai)</string>
   <string name="kill_app_longpress_back">Beëindig met Terug-knoppie</string>
   <string name="kill_app_longpress_back_summary">Sluit die voorgrond program deur die lang druk van die terug knoppie</string>
-  <string name="contributor_cloud_title">Bydraers</string>
   <string name="allow_mock_sms">Laat skyn SMS toe</string>
   <string name="privacy_settings_cyanogenmod_title">Privaatheid</string>
   <string name="privacy_guard_switch_label">Privaatheidswag</string>

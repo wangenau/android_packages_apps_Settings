@@ -441,7 +441,6 @@
   <string name="pref_force_highend_gfx_summary">Омогућава врхунске визуелне ефекте као што су транспарентна статусна/навигациона трака (захтева поновно покретање)</string>
   <string name="kill_app_longpress_back">Затвори апликацију дугметом за Назад</string>
   <string name="kill_app_longpress_back_summary">Затвори предњу апликацију дугим притиском на дугме за Назад</string>
-  <string name="contributor_cloud_title">Сарадници</string>
   <string name="allow_mock_sms">Дозволи лажни SMS</string>
   <string name="privacy_settings_cyanogenmod_title">Приватност</string>
   <string name="privacy_guard_switch_label">Омогући заштиту приватности</string>
